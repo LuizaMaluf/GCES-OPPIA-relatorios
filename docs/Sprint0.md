@@ -2,27 +2,29 @@
 # 📝 Relatório de Contribuição – Sprint 0
 
 **Disciplina:** Gestão de Configuração e Evolução de Software
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
-**Período da Sprint:** \[Data início – Data fim]
+
+**Equipe:** \[Oppia]
+
+**Comunidade/Projeto de Software Livre:** \[Oppia]
+
+**Período da Sprint:** \[25/08 – 10/09]
 
 ---
 
 ## 1. Objetivos da Sprint
 
-* [ ] Objetivo 1 planejado
-* [ ] Objetivo 2 planejado
-* [ ] Objetivo 3 planejado
+* [ ] Organização da equipe (fork, repositório GitHub).
+* [ ] Mapeamento das políticas de GCES do projeto OSS (guia de contribuição, padrões de qualidade e comunicação).
+* [ ] Configuração do ambiente local e documentação dos aprendizados.
 
 ---
 
 ## 2. Entregas Coletivas
 
-| Entrega             | Status (Concluído/Parcial/Pendente) | Link/Referência        | Observações                       |
-| ------------------- | ----------------------------------- | ---------------------- | --------------------------------- |
-| \[Funcionalidade X] | Concluído                           | \[link para PR/issue]  | Impacto na comunidade             |
-| \[Documento Y]      | Parcial                             | \[link para wiki/repo] | Necessita revisão                 |
-| \[Teste Z]          | Pendente                            | –                      | Bloqueado por dependência externa |
+| Entrega | Status (Concluído/Parcial/Pendente) | Link/Referência        | Observações |
+| --------| ----------------------------------- | ---------------------- | --------------------------------- |
+| Repositório de documentação | Concluído                           | [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios)  | Organização da Equipe |
+
 
 ---
 
@@ -30,7 +32,7 @@
 
 | Integrante | Contribuições                             | Links (PRs, Issues, Docs) | Observações |
 | ---------- | ----------------------------------------- | ------------------------- | ----------- |
-| Nome 1     | Implementou \[feature], abriu \[X issues] | \[link PR] \[link issue]  |             |
+| Luiza Maluf | Criação do Repositório de documentação; Criação do fork so projeto; Configuração do ambiente local | [diario de bordo](../contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md)  | - |
 | Nome 2     | Revisou PRs, documentou \[tópico]         | \[link doc]               |             |
 | Nome 3     | Desenvolveu script de automação           | \[link repo]              |             |
 
@@ -40,8 +42,7 @@
 
 ✨ **Destaques da Sprint:**
 
-* \[Exemplo] Integração bem-sucedida de novo módulo no projeto principal.
-* \[Exemplo] Equipe estabeleceu fluxo de contribuição alinhado às práticas da comunidade.
+* Equipe conseguiu rodar o Oppia localmente com todas as dependências configuradas.
 
 ---
 
@@ -49,21 +50,20 @@
 
 **Principais desafios enfrentados:**
 
-* \[Exemplo] Barreiras de comunicação com mantenedores da comunidade.
-* \[Exemplo] Dificuldade técnica em compreender dependência \[X].
-* \[Exemplo] Problemas de coordenação de tempo entre membros.
+* Tempo de build inicial longo e dependências complexas.
 
 ---
 
 ## 6. Lições Aprendidas
 
-* \[Exemplo] Importância de abrir issues detalhadas para facilitar revisão.
+* Seguir passo a passo a documentação oficial é crucial para evitar erros de setup.
 * \[Exemplo] Planejamento coletivo ajudou a reduzir retrabalho.
 
 ---
 
 ## 7. Planejamento para a Próxima Sprint
 
-* [ ] Implementar \[funcionalidade]
-* [ ] Ampliar cobertura de testes
-* [ ] Melhorar documentação do processo de contribuição
+* [ ] Buscar issues relacionadas ao interesse de cada um.
+* [ ] Abrir o primeiro Pull Request (PR) de código.
+* [ ] Acompanhar discussões de Issues da comunidade Oppia.
+* [ ] Documentar procedimentos e aprendizados.
