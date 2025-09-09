@@ -1,8 +1,8 @@
-# Diário de Bordo – \[Nome do(a) Aluno(a)]
+# Diário de Bordo – \[Luiza Maluf Amorim]
 
-**Disciplina:** \[Nome da disciplina]
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
+**Disciplina:** \[Gestão da Configuração e Evolução de Software]
+**Equipe:** \[Oppia]
+**Comunidade/Projeto de Software Livre:** \[Oppia]
 
 ---
 
