@@ -6,76 +6,50 @@
 
 ---
 
-## Sprint 0 – \[Data início – Data fim]
+## Sprint 0 – \[25/08 – 10/09]
 
 ### Resumo da Sprint
 
-Breve descrição das atividades e reflexões.
+Essa sprint foi focada em organizar a equipe, criar o fork e o repositório de documentação, além de estudar as políticas de contribuição e práticas de GCES do Oppia. Também realizamos a configuração do ambiente local, documentando os problemas e aprendizados.
 
 ### Atividades Realizadas
 
-| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
-| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 20/08 | Configuração inicial do ambiente            | Código                            | –               | Concluído |
-| 22/08 | Leitura e estudo da documentação do projeto | Estudo                            | \[link wiki]    | Concluído |
-| 24/08 | Abertura de issue para bug em módulo X      | Discussão                         | \[link issue]   | Concluído |
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 25/08 | Criação do fork | Código | [Link](https://github.com/LuizaMaluf/oppia) | Concluído |
+| 25/08 | Leitura e estudo da documentação do projeto | Estudo                            | [Link](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase) | Concluído |
+| 01/09 | Mapeamento das políticas de contribuição do Oppia | Estudo | [Link](https://github.com/oppia/oppia/wiki) | Concluído |
+| 08/09 | Configuração do ambiente linux | Código | [Link](https://github.com/oppia/oppia/wiki/Installing-Oppia-%28Linux%3B-Python-3%29)   | Concluído |
+| 08/09 | Definição de linha de trabalaho | Discussção | - | Concluido | 
+| 09/09 | Criação do repositório de documentação dos relatórios | Doc |  [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios) | Concluído |
 
 ### Maiores Avanços
 
-* \[Exemplo] Aprendi a rodar a aplicação localmente.
-* \[Exemplo] Entendi melhor a organização do repositório.
+* Consegui rodar o projeto Oppia localmente após configuração.
+
+* Compreensão das políticas de contribuição, qualidade e comunicação da comunidade Oppia.
+
+* Organização inicial da equipe e do repositório acadêmico.
 
 ### Maiores Dificuldades
 
-* \[Exemplo] Ambiente demorou para configurar por falta de dependências.
+* Foi minha primeira vez usando WSL e configurei de forma incorreta.
+
+* Precisei reinstalar o WSL para prosseguir com a configuração do ambiente.
+
+* O tempo de build inicial também foi longo, o que atrasou a validação do setup.
+
 
 ### Aprendizados
 
-* Uso básico de GitHub Issues.
-* Fluxo de contribuição do projeto.
+* Ganhei experiência na instalação e uso do WSL para desenvolvimento.
+
+* Entendi melhor a importância de seguir passo a passo a documentação oficial para evitar erros de configuração.
+
+* Aprendi a lidar com reinstalação e reconfiguração do ambiente como parte do processo de GCES.
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Contribuir com pelo menos 1 PR.
-* [ ] Participar da revisão de código de um colega.
-
----
-
-## Sprint 2 – \[Data início – Data fim]
-
-### Resumo da Sprint
-
-Breve descrição.
-
-### Atividades Realizadas
-
-| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
-| ----- | --------------------------- | ------- | --------------- | --------- |
-| 03/09 | Implementação da função Y   | Código  | \[link PR]      | Concluído |
-| 05/09 | Revisão de PR de colega     | Revisão | \[link PR]      | Concluído |
-| 08/09 | Atualização de documentação | Doc     | \[link wiki]    | Parcial   |
-
-### Maiores Avanços
-
-* \[Exemplo] Primeiro PR aceito pela comunidade.
-
-### Maiores Dificuldades
-
-* Dificuldade com testes automatizados.
-
-### Aprendizados
-
-* Melhoria no uso de Git (branches, rebase).
-* Importância de escrever commits claros.
-
-### Plano Pessoal para a Próxima Sprint
-
-* [ ] Melhorar conhecimento em testes.
-* [ ] Aprofundar em Docker para rodar ambiente completo.
-
----
-
-## Sprint 3 – \[Data início – Data fim]
-
-*(Repete-se a mesma estrutura, até o final da disciplina.)*
-    
+* [ ] Buscar issues relacionadas a CI e erros na parte de DevOps do Oppia.
+* [ ] Trabalhar em conjunto com Lucas Bottino para resolver problemas identificados.
+* [ ] Consolidar aprendizados sobre pipelines e integração contínua.
