@@ -21,24 +21,24 @@
 
 ## 2. Entregas Coletivas
 
-| Entrega | Status (Concluído/Parcial/Pendente) | Link/Referência        | Observações |
-| --------| ----------------------------------- | ---------------------- | --------------------------------- |
-| Repositório de documentação | Concluído                           | [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios)  | Organização da Equipe |
+| Entrega                     | Status (Concluído/Parcial/Pendente) | Link/Referência                                             | Observações           |
+| --------------------------- | ----------------------------------- | ----------------------------------------------------------- | --------------------- |
+| Repositório de documentação | Concluído                           | [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios) | Organização da Equipe |
 
 
 ---
 
-## 3. Contribuições Individuais
+| Integrante       | Contribuições                                                                                                  | Links (PRs, Issues, Docs)                                                           | Observações |
+| ---------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------- |
+| Luiza Maluf      | Criação do Repositório de documentação; Criação do fork so projeto; Configuração do ambiente local             | [diario de bordo](../contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md)     | -           |
+| Carla            | Orientação do subgrupo sobre como fazer o contato inicial com a comunidade                                     | [diario de bordo](../contribuicoes_individuais/Carla/Sprint0.md)                    | -           |
+| Paulo Borba      | Ampliação da documentação; Elaboração da documentação individual; Configuração do projeto para desenvolvimento | [diario de bordo](../contribuicoes_individuais/PauloBorba-190094273/Sprint0.md)     |             |
+| Ana Clara Borges | Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto                                   | [diario de bordo](../contribuicoes_individuais/AnaClaraBorges-221007789/Sprint0.md) |             |
+| Rodrigo Wright   | Contribuição individual                                                                                        | [Diário de bordo](../contribuicoes_individuais/RodrigoWright-200027158/Sprint0.md)  | Concluído   |
+| Lucas Sales      | Contribuição individual                                                                                        | [Diário de bordo](../contribuicoes_individuais/LucasSales-180105451/Sprint0.md)     | Concluído   |
+| Bianca Patrocínio | Criação de um dos sub grupos; Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto  | [diario de bordo](../contribuicoes_individuais/BiancaPatrocinio-221008801/Sprint0.md)   |   Concluído      |
+| Nome 3           | Desenvolveu script de automação                                                                                | \[link repo]                                                                        |             |
 
-| Integrante | Contribuições                             | Links (PRs, Issues, Docs) | Observações |
-| ---------- | ----------------------------------------- | ------------------------- | ----------- |
-| Luiza Maluf | Criação do Repositório de documentação; Criação do fork so projeto; Configuração do ambiente local | [diario de bordo](../contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md)  | - |
-| Carla      | Orientação do subgrupo sobre como fazer o contato inicial com a comunidade | [diario de bordo](../contribuicoes_individuais/Carla/Sprint0.md) |       -      |
-| Paulo Borba     | Ampliação da documentação; Elaboração da documentação individual; Configuração do projeto para desenvolvimento | [diario de bordo](../contribuicoes_individuais/PauloBorba-190094273/Sprint0.md)               |             |
-| Ana Clara Borges     | Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto           | [diario de bordo](../contribuicoes_individuais/AnaClaraBorges-221007789/Sprint0.md)              |             |
-| Rodrigo Wright | Contribuição individual               | [Diário de bordo](../contribuicoes_individuais/RodrigoWright-200027158/Sprint0.md) |Concluído |
-| Bianca Patrocínio    | Criação de um dos sub grupos; Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto           | [diario de bordo](../contribuicoes_individuais/BiancaPatrocinio-221008801/Sprint0.md)              |             |
-| Nome 3     | Desenvolveu script de automação           | \[link repo]              |             |
 ---
 
 ## 4. Maiores Avanços
