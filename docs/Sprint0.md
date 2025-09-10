@@ -35,6 +35,7 @@
 | Luiza Maluf | Criação do Repositório de documentação; Criação do fork so projeto; Configuração do ambiente local | [diario de bordo](../contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md)  | - |
 | Carla      | Orientação do subgrupo sobre como fazer o contato inicial com a comunidade | [diario de bordo](../contribuicoes_individuais/Carla/Sprint0.md) |       -      |
 | Paulo Borba     | Ampliação da documentação; Elaboração da documentação individual; Configuração do projeto para desenvolvimento | [diario de bordo](../contribuicoes_individuais/PauloBorba-190094273/Sprint0.md)               |             |
+| Ana Clara Borges     | Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto           | [diario de bordo](../contribuicoes_individuais/AnaClaraBorges-221007789/Sprint0.md)              |             |
 | Nome 3     | Desenvolveu script de automação           | \[link repo]              |             |
 
 ---
