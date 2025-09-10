@@ -36,6 +36,7 @@
 | Lucas Sales            | Contribuição individual                                                                                        | [Diário de bordo](../contribuicoes_individuais/LucasSales-180105451/Sprint0.md)       | Concluído   |
 | Bianca Patrocínio      | Criação de um dos sub grupos; Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto     | [diario de bordo](../contribuicoes_individuais/BiancaPatrocinio-221008801/Sprint0.md) | Concluído   |
 | Danilo de Melo Ribeiro | Estudo sobre o projeto, Configuração do ambiente, Criação do diário de bordo                                   | [diario de bordo](../contribuicoes_individuais/DaniloMelo-232014244/Sprint0.md)       | Concluído   |
+| Pedro Sampaio          | Estudo da documentação; Mapeamento das políticas de contribuição do Oppia; Configuração do ambiente.           | [diario de bordo](../contribuicoes_individuais/PedroSampaio-211043745/Sprint0.md)     | Concluído   |
 
 ---
 
