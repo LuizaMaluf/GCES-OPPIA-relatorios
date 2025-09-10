@@ -1,81 +1,43 @@
-# Diário de Bordo – \[Nome do(a) Aluno(a)]
+# Diário de Bordo – Pedro Sampaio Dias Rocha
 
-**Disciplina:** \[Nome da disciplina]
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
+**Disciplina:** \[Gestão da Configuração e Evolução de Software]
+**Equipe:** \[Oppia]
+**Comunidade/Projeto de Software Livre:** \[Oppia]
 
 ---
 
-## Sprint 1 – \[Data início – Data fim]
+## Sprint 0 – \[25/08 – 10/09]
 
 ### Resumo da Sprint
 
-Breve descrição das atividades e reflexões.
+Nesta sprint, voltamos nossos esforços para estruturar a equipe, criar o fork do projeto e organizar o repositório de documentação. Também estudamos as diretrizes de contribuição e as práticas de GCES utilizadas pelo Oppia, além de iniciar a busca por issues a serem trabalhadas. Um ponto central desta etapa foi a configuração do ambiente local, atividade essencial para o andamento do projeto.
 
 ### Atividades Realizadas
 
-| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
-| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 20/08 | Configuração inicial do ambiente            | Código                            | –               | Concluído |
-| 22/08 | Leitura e estudo da documentação do projeto | Estudo                            | \[link wiki]    | Concluído |
-| 24/08 | Abertura de issue para bug em módulo X      | Discussão                         | \[link issue]   | Concluído |
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 01/09 | Criação do fork | Código | [Link](https://github.com/PedroSampaioDias/oppia) | Concluído |
+| 01/09 | Leitura e estudo da documentação do projeto | Estudo                            | [Link](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase) | Concluído |
+| 01/09 | Mapeamento das políticas de contribuição do Oppia | Estudo | [Link](https://github.com/oppia/oppia/wiki) | Concluído |
+| 09/09 | Configuração do ambiente linux | Ambiente | [Link](https://github.com/oppia/oppia/wiki/Installing-Oppia-%28Linux%3B-Python-3%29)   | Concluído |
+| 09/09 | Entrar no repositório de documentação | Doc |  [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios/tree/docs-pedro-sampaio) | Concluído |
 
 ### Maiores Avanços
 
-* \[Exemplo] Aprendi a rodar a aplicação localmente.
-* \[Exemplo] Entendi melhor a organização do repositório.
+* Consegui rodar o projeto Oppia localmente.  
+* Compreendi melhor as políticas de contribuição, qualidade e comunicação da comunidade Oppia.  
+* Identifiquei algumas possíveis *issues* no repositório.  
 
 ### Maiores Dificuldades
 
-* \[Exemplo] Ambiente demorou para configurar por falta de dependências.
+* Foi trabalhoso corrigir um problema de versionamento do ambiente virtual (*venv*), que já existia previamente no meu computador.  
 
 ### Aprendizados
 
-* Uso básico de GitHub Issues.
-* Fluxo de contribuição do projeto.
+* Percebi a importância de seguir rigorosamente a documentação oficial para evitar erros de configuração.  
+* Tive meu primeiro contato com a leitura de uma documentação de contribuição em projetos de código aberto, o que me permitiu compreender melhor como funciona esse processo.  
+
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Contribuir com pelo menos 1 PR.
-* [ ] Participar da revisão de código de um colega.
-
----
-
-## Sprint 2 – \[Data início – Data fim]
-
-### Resumo da Sprint
-
-Breve descrição.
-
-### Atividades Realizadas
-
-| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
-| ----- | --------------------------- | ------- | --------------- | --------- |
-| 03/09 | Implementação da função Y   | Código  | \[link PR]      | Concluído |
-| 05/09 | Revisão de PR de colega     | Revisão | \[link PR]      | Concluído |
-| 08/09 | Atualização de documentação | Doc     | \[link wiki]    | Parcial   |
-
-### Maiores Avanços
-
-* \[Exemplo] Primeiro PR aceito pela comunidade.
-
-### Maiores Dificuldades
-
-* Dificuldade com testes automatizados.
-
-### Aprendizados
-
-* Melhoria no uso de Git (branches, rebase).
-* Importância de escrever commits claros.
-
-### Plano Pessoal para a Próxima Sprint
-
-* [ ] Melhorar conhecimento em testes.
-* [ ] Aprofundar em Docker para rodar ambiente completo.
-
----
-
-## Sprint 3 – \[Data início – Data fim]
-
-*(Repete-se a mesma estrutura, até o final da disciplina.)*
-    
+* [ ] Buscar *issues* relevantes para contribuir.
