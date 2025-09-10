@@ -59,7 +59,6 @@
 ## 6. Lições Aprendidas
 
 -   Seguir passo a passo a documentação oficial é crucial para evitar erros de setup.
--   \[Exemplo] Planejamento coletivo ajudou a reduzir retrabalho.
 
 ---
 
