@@ -14,13 +14,15 @@ Esta sprint inicial teve como foco a integração ao projeto Oppia e a estrutura
 
 ### Atividades Realizadas
 
-| Data  | Atividade                                             | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                       | Status    |
-| :---- | :---------------------------------------------------- | :-------------------------------- | :---------------------------------------------------------------------------------------------------- | :-------- |
-| 25/08 | Criação do fork do repositório oficial                | Código                            | [Github](https://github.com/EngDann/oppia)                                                            | Concluído |
-| 25/08 | Análise da documentação e arquitetura do projeto      | Estudo                            | [Overview-of-the-Oppia-codebase](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase)  | Concluído |
-| 04/09 | Mapeamento das diretrizes de contribuição e qualidade | Estudo                            | [Oppia Wiki](https://github.com/oppia/oppia/wiki)                                                     | Concluído |
-| 06/09 | Alinhamento da estratégia de trabalho da equipe       | Discussão                         | Reunião interna da equipe                                                                             | Concluído |
-| 06/09 | Configuração do ambiente de desenvolvimento (Linux)   | Código                            | [Installing Oppia (Linux; Docker)](https://github.com/oppia/oppia/wiki/Installing-Oppia-using-Docker) | Concluído |
+| Data  | Atividade                                                               | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                                                                      | Status    |
+| :---- | :---------------------------------------------------------------------- | :-------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| 25/08 | Criação do fork do repositório oficial                                  | Código                            | [Github](https://github.com/EngDann/oppia)                                                                                                           | Concluído |
+| 25/08 | Análise da documentação e arquitetura do projeto                        | Estudo                            | [Overview-of-the-Oppia-codebase](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase)                                                 | Concluído |
+| 04/09 | Mapeamento das diretrizes de contribuição e qualidade                   | Estudo                            | [Oppia Wiki](https://github.com/oppia/oppia/wiki)                                                                                                    | Concluído |
+| 06/09 | Alinhamento da estratégia de trabalho da equipe                         | Discussão                         | Reunião interna da equipe                                                                                                                            | Concluído |
+| 06/09 | Configuração do ambiente de desenvolvimento (Linux)                     | Código                            | [Installing Oppia (Linux; Docker)](https://github.com/oppia/oppia/wiki/Installing-Oppia-using-Docker)                                                | Concluído |
+| 09/09 | Criação do relatório de contribuição individual                         | Doc                               | -                                                                                                                                                    | Concluído |
+| 10/09 | Preenchimento dos formulários para iniciar comunicação com a comunidade | Formulário                        | [Forms](https://docs.google.com/forms/d/e/1FAIpQLSfoFLKT4BlNH2937mSMJATVaWq-yBSrq8p3jjrPwcMw3gaGcg/alreadyresponded?c=0&w=1&fbzx=947187622883277373) | Concluído |
 
 ### Maiores Avanços
 
