@@ -22,8 +22,11 @@ Essa sprint foi focada em organizar a equipe, criar o fork e o repositório de d
 | 08/09 | Configuração do ambiente linux | Código | [Link](https://github.com/oppia/oppia/wiki/Installing-Oppia-%28Linux%3B-Python-3%29)   | Concluído |
 | 08/09 | Definição de linha de trabalaho | Discussção | - | Concluido | 
 | 09/09 | Criação do repositório de documentação dos relatórios | Doc |  [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios) | Concluído |
+| 09/09 | Preenchimento do formulário de contribuição | Formulário |  [Link]([https://github.com/LuizaMaluf/GCES-OPPIA-relatorios](https://docs.google.com/forms/d/e/1FAIpQLSfoFLKT4BlNH2937mSMJATVaWq-yBSrq8p3jjrPwcMw3gaGcg/viewform?c=0&w=1)) | Concluído |
 
 ### Maiores Avanços
+
+* Preenchi o formulário requerido concordando com as regras de contribuição para o projeto.
 
 * Consegui rodar o projeto Oppia localmente após configuração.
 
