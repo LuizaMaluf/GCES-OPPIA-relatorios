@@ -36,3 +36,4 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 - Lucas Gama de Araujo Bottino - 221008297
 - Pedro Sampaio Dias Rocha - 211043745
 - Paulo Henrique Rossi de Borba - 190094273
+- Rodrigo Edmar Wright Dos Santos - 200027158
