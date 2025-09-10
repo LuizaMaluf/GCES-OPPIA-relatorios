@@ -36,8 +36,8 @@
 | Carla      | Orientação do subgrupo sobre como fazer o contato inicial com a comunidade | [diario de bordo](../contribuicoes_individuais/Carla/Sprint0.md) |       -      |
 | Paulo Borba     | Ampliação da documentação; Elaboração da documentação individual; Configuração do projeto para desenvolvimento | [diario de bordo](../contribuicoes_individuais/PauloBorba-190094273/Sprint0.md)               |             |
 | Ana Clara Borges     | Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto           | [diario de bordo](../contribuicoes_individuais/AnaClaraBorges-221007789/Sprint0.md)              |             |
+| Rodrigo Wright | Contribuição individual               | [Diário de bordo](../contribuicoes_individuais/RodrigoWright-200027158/Sprint0.md) |Concluído |
 | Nome 3     | Desenvolveu script de automação           | \[link repo]              |             |
-
 ---
 
 ## 4. Maiores Avanços
