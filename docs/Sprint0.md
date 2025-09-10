@@ -33,6 +33,7 @@
 | Integrante | Contribuições                             | Links (PRs, Issues, Docs) | Observações |
 | ---------- | ----------------------------------------- | ------------------------- | ----------- |
 | Luiza Maluf | Criação do Repositório de documentação; Criação do fork so projeto; Configuração do ambiente local | [diario de bordo](../contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md)  | - |
+| Carla      | Orientação do subgrupo sobre como fazer o contato inicial com a comunidade | [diario de bordo](../contribuicoes_individuais/Carla/Sprint0.md) |       -      |
 | Nome 2     | Revisou PRs, documentou \[tópico]         | \[link doc]               |             |
 | Nome 3     | Desenvolveu script de automação           | \[link repo]              |             |
 
