@@ -34,4 +34,5 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 
 - Luiza Maluf Amorim - 221008294
 - Lucas Gama de Araujo Bottino - 221008297
+- Maria Alice Bernardo da Costa Silva - 211063210
 - Pedro Sampaio Dias Rocha - 211043745
