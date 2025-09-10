@@ -42,3 +42,4 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 -   Ana Clara Barbosa Borges - 221007789
 -   Bianca Patrocínio Castro - 221008801
 -   Danilo de Melo Ribeiro - 232014244
+-   Luis Henrique Luz Costa - 180066161
