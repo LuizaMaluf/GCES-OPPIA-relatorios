@@ -39,3 +39,6 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 - Pedro Sampaio Dias Rocha - 211043745
 - Paulo Henrique Rossi de Borba - 190094273
 - Rodrigo Edmar Wright Dos Santos - 200027158
+- Carla de Araujo Clementino Ribeiro - 180030736
+- Ana Clara Barbosa Borges - 221007789
+- Bianca Patrocínio Castro - 221008801
