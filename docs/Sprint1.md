@@ -30,6 +30,7 @@
 | ------------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------- |
 | Lucas Bottino | Contribuição de código na issue [#22915](https://github.com/oppia/oppia/issues/22915) | https://github.com/oppia/oppia/issues/22915 | Aguardando aprovação |
 | Luiza Maluf   | Contribuição de código na issue [#22915](https://github.com/oppia/oppia/issues/22915) | https://github.com/oppia/oppia/issues/22915 | Aguardando aprovação |
+| Bianca Patrocínio   | Guia de relato em como resolver problemas na instalação no Ubuntu 24.04.03 via Docker | https://github.com/oppia/oppia/discussions/23454 | Concluído |
 
 ## 4. Maiores Avanços
 
@@ -38,6 +39,7 @@
 - Equipe conseguiu contribuir com issues dentro do projeto Oppia.
 - Comunicação e organização do grupo bem estabelecida.
 - Entendimento sobre a base de código do projeto e mapeamento de próximas issues.
+- Contribuição com a Wiki de Q&A (Installation) do Oppia.
 
 ---
 

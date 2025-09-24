@@ -30,6 +30,7 @@ Essa sprint foi focada na familiarização com o projeto, a entrada na comunidad
 * Estudei as políticas de Pull Requests (PRs) e estou estudando para poder pegar a primeira contribuição.
 
 * Após ter conseguido rodar na minha máquina fiz um relato na Wiki de Q&A (Installation), para caso alguém possua um problema parecido irá ter documentado a resolução: [Link](https://github.com/oppia/oppia/discussions/23454) 
+![Discussão](./assets/ubuntu.png)
 
 Containers do Docker rodando:
 ![Containers do Docker rodando](./assets/docker.png)
