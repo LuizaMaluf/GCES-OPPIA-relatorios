@@ -26,8 +26,10 @@
 
 ---
 
-| Integrante | Contribuições | Links (PRs, Issues, Docs) | Observações |
-| ---------- | ------------- | ------------------------- | ----------- |
+| Integrante    | Contribuições                                                                         | Links (PRs, Issues, Docs)                   | Observações          |
+| ------------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------- |
+| Lucas Bottino | Contribuição de código na issue [#22915](https://github.com/oppia/oppia/issues/22915) | https://github.com/oppia/oppia/issues/22915 | Aguardando aprovação |
+| Luiza Maluf   | Contribuição de código na issue [#22915](https://github.com/oppia/oppia/issues/22915) | https://github.com/oppia/oppia/issues/22915 | Aguardando aprovação |
 
 ## 4. Maiores Avanços
 
