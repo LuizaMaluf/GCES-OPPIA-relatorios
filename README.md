@@ -44,3 +44,4 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 - Danilo de Melo Ribeiro - 232014244
 - Luis Henrique Luz Costa - 180066161
 - Nathan Benigno Ponce de Abreu - 221022696
+- Gabriel Marques de Souza - 202016266
