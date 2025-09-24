@@ -1,4 +1,4 @@
-# Diário de Bordo – \[Ana Clara Borges]
+# Diário de Bordo – \[Bianca Patrocínio Castro]
 
 **Disciplina:** \[Gestão da Configuração e Evolução de Software]
 **Equipe:** \[Oppia]
@@ -6,11 +6,11 @@
 
 ---
 
-## Sprint 0 – \[25/08 – 10/09]
+## Sprint 0 - \[25/08 – 10/09]
 
 ### Resumo da Sprint
 
-Essa sprint foi focada na familiarização com o projeto, a entrada na comunidade, o aprendizado do fluxo de contribuições e a configuração do ambiente.
+Neste sprint fiquei focada em conseguir rodar o projeto, onde na Sprint 0 não foi possivel em minha máquina. Além disso procurei entender melhor como funcionar o fluxo de trabalho e links importante para usar como orientação.
 
 ### Atividades Realizadas
 
@@ -45,7 +45,7 @@ Essa sprint foi focada na familiarização com o projeto, a entrada na comunidad
 
 * Experiência com ambiente virtual de um projeto grande.
 
-* Achei legal os formulários e a intagração com o email.
+* Achei legal os formulários e a integração com o email.
 
 * Super bacana a documentação, muito importante ter ela disponível.
 
