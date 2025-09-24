@@ -34,6 +34,8 @@ O trabalho envolveu identificar os arquivos responsáveis pelo componente de nav
 * Identificamos rapidamente os arquivos certos a modificar graças ao estudo do PR anterior (#22560).  
 * Trabalhamos em colaboração para dividir tarefas e revisar mutuamente o código.  
 
+![#22915](./assets/issue_22915.png)
+
 
 ### Maiores Dificuldades
 
