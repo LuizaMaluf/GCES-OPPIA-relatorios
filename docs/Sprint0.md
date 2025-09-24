@@ -12,9 +12,9 @@
 
 ## 1. Objetivos da Sprint
 
--   [ ] Organização da equipe (fork, repositório GitHub).
--   [ ] Mapeamento das políticas de GCES do projeto OSS (guia de contribuição, padrões de qualidade e comunicação).
--   [ ] Configuração do ambiente local e documentação dos aprendizados.
+- [ ] Organização da equipe (fork, repositório GitHub).
+- [ ] Mapeamento das políticas de GCES do projeto OSS (guia de contribuição, padrões de qualidade e comunicação).
+- [ ] Configuração do ambiente local e documentação dos aprendizados.
 
 ---
 
@@ -26,17 +26,18 @@
 
 ---
 
-| Integrante             | Contribuições                                                                                                  | Links (PRs, Issues, Docs)                                                             | Observações |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- |
-| Luiza Maluf            | Criação do Repositório de documentação; Criação do fork so projeto; Configuração do ambiente local             | [diario de bordo](../contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md)       | -           |
-| Carla                  | Orientação do subgrupo sobre como fazer o contato inicial com a comunidade                                     | [diario de bordo](../contribuicoes_individuais/Carla/Sprint0.md)                      | -           |
-| Paulo Borba            | Ampliação da documentação; Elaboração da documentação individual; Configuração do projeto para desenvolvimento | [diario de bordo](../contribuicoes_individuais/PauloBorba-190094273/Sprint0.md)       |             |
-| Ana Clara Borges       | Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto                                   | [diario de bordo](../contribuicoes_individuais/AnaClaraBorges-221007789/Sprint0.md)   |             |
-| Rodrigo Wright         | Contribuição individual                                                                                        | [Diário de bordo](../contribuicoes_individuais/RodrigoWright-200027158/Sprint0.md)    | Concluído   |
-| Lucas Sales            | Contribuição individual                                                                                        | [Diário de bordo](../contribuicoes_individuais/LucasSales-180105451/Sprint0.md)       | Concluído   |
-| Bianca Patrocínio      | Criação de um dos sub grupos; Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto     | [diario de bordo](../contribuicoes_individuais/BiancaPatrocinio-221008801/Sprint0.md) | Concluído   |
-| Danilo de Melo Ribeiro | Estudo sobre o projeto, Configuração do ambiente, Criação do diário de bordo                                   | [diario de bordo](../contribuicoes_individuais/DaniloMelo-232014244/Sprint0.md)       | Concluído   |
-| Pedro Sampaio          | Estudo da documentação; Mapeamento das políticas de contribuição do Oppia; Configuração do ambiente.           | [diario de bordo](../contribuicoes_individuais/PedroSampaio-211043745/Sprint0.md)     | Concluído   |
+| Integrante             | Contribuições                                                                                                                | Links (PRs, Issues, Docs)                                                             | Observações |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- |
+| Luiza Maluf            | Criação do Repositório de documentação; Criação do fork so projeto; Configuração do ambiente local                           | [diario de bordo](../contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md)       | -           |
+| Carla                  | Orientação do subgrupo sobre como fazer o contato inicial com a comunidade                                                   | [diario de bordo](../contribuicoes_individuais/Carla/Sprint0.md)                      | -           |
+| Paulo Borba            | Ampliação da documentação; Elaboração da documentação individual; Configuração do projeto para desenvolvimento               | [diario de bordo](../contribuicoes_individuais/PauloBorba-190094273/Sprint0.md)       |             |
+| Ana Clara Borges       | Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto                                                 | [diario de bordo](../contribuicoes_individuais/AnaClaraBorges-221007789/Sprint0.md)   |             |
+| Rodrigo Wright         | Contribuição individual                                                                                                      | [Diário de bordo](../contribuicoes_individuais/RodrigoWright-200027158/Sprint0.md)    | Concluído   |
+| Lucas Sales            | Contribuição individual                                                                                                      | [Diário de bordo](../contribuicoes_individuais/LucasSales-180105451/Sprint0.md)       | Concluído   |
+| Bianca Patrocínio      | Criação de um dos sub grupos; Criação do diário de bordo; Configuração do ambiente; Estudo sobre o projeto                   | [diario de bordo](../contribuicoes_individuais/BiancaPatrocinio-221008801/Sprint0.md) | Concluído   |
+| Danilo de Melo Ribeiro | Estudo sobre o projeto, Configuração do ambiente, Criação do diário de bordo                                                 | [diario de bordo](../contribuicoes_individuais/DaniloMelo-232014244/Sprint0.md)       | Concluído   |
+| Pedro Sampaio          | Estudo da documentação; Mapeamento das políticas de contribuição do Oppia; Configuração do ambiente.                         | [diario de bordo](../contribuicoes_individuais/PedroSampaio-211043745/Sprint0.md)     | Concluído   |
+| Lucas Bottino          | Estudo sobre o projeto Oppia; Fork do projeto e configuração do ambiente local; Estudo sobre a documentação e GCES do Oppia. | [diario de bordo](../contribuicoes_individuais/LucasBottino-221008267/Sprint0.md)     | Concluído   |
 
 ---
 
@@ -44,8 +45,8 @@
 
 ✨ **Destaques da Sprint:**
 
--   Equipe conseguiu rodar o Oppia localmente com todas as dependências configuradas.
--   Comunicação e organização do grupo bem estabelecida.
+- Equipe conseguiu rodar o Oppia localmente com todas as dependências configuradas.
+- Comunicação e organização do grupo bem estabelecida.
 
 ---
 
@@ -53,19 +54,19 @@
 
 **Principais desafios enfrentados:**
 
--   Tempo de build inicial longo e dependências complexas.
+- Tempo de build inicial longo e dependências complexas.
 
 ---
 
 ## 6. Lições Aprendidas
 
--   Seguir passo a passo a documentação oficial é crucial para evitar erros de setup.
+- Seguir passo a passo a documentação oficial é crucial para evitar erros de setup.
 
 ---
 
 ## 7. Planejamento para a Próxima Sprint
 
--   [ ] Buscar issues relacionadas ao interesse de cada um.
--   [ ] Abrir o primeiro Pull Request (PR) de código.
--   [ ] Acompanhar discussões de Issues da comunidade Oppia.
--   [ ] Documentar procedimentos e aprendizados.
+- [ ] Buscar issues relacionadas ao interesse de cada um.
+- [ ] Abrir o primeiro Pull Request (PR) de código.
+- [ ] Acompanhar discussões de Issues da comunidade Oppia.
+- [ ] Documentar procedimentos e aprendizados.
