@@ -32,6 +32,14 @@ Essa sprint foi focada contribuição efetiva no código da comunidade Oppia. Eu
 
 * Registrei o processo no repositório do grupo.  
 
+Antes
+
+![alt text](image-1.png)
+
+Depois
+
+![alt text](image.png)
+
 ### Maiores Desafios
 
 * Comunicação com a equipe de GCES em relação ao trabalho.
