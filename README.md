@@ -45,3 +45,4 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 - Luis Henrique Luz Costa - 180066161
 - Nathan Benigno Ponce de Abreu - 221022696
 - Gabriel Marques de Souza - 202016266
+- Joao Paulo Monteiro de Barros Ceva Rodrigues - 202045141
