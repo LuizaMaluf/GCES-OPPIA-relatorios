@@ -5,18 +5,24 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - run: pip install mkdocs-material
+      - name: Install dependencies
+        run: pip install mkdocs mkdocs-material
 
       - name: Build and Deploy MkDocs Site
         run: mkdocs gh-deploy --force
