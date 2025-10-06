@@ -1,0 +1,48 @@
+site_name: GCES OPPIA Relatórios
+site_url: https://luizamaluf.github.io/GCES-OPPIA-relatorios/
+repo_url: https://github.com/LuizaMaluf/GCES-OPPIA-relatorios
+theme:
+  name: material   
+nav:
+  - Home: index.md
+  - Geral:
+    - Sprint 0: geral/Sprint0.md
+    - Sprint 1: geral/Sprint1.md
+  - Contribuições individuais:
+    - Luiza Maluf - 221008294: contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md
+  - Materiais:
+    - Template do Diário de bordo: material/template-diario-bordo
+    - Template do relatório: materiais/template-relatorio.md
+
+
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.expand
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+
+plugins:
+  - search
+  - tags
