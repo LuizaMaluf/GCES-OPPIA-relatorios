@@ -14,14 +14,7 @@ O projeto escolhido para contribuição foi o [Oppia](https://github.com/oppia) 
 
 - Centralizar relatórios, atas e materiais de apoio.
 
--Relatar a experiência de contribuição para o projeto Oppia.
-
-## Estrutura do Repositório
-
-|-- docs/ → Versões dos relatórios de contribuição separados por sprints  
-|-- contribuicoes/ → Registros das contribuições no Oppia (issues, pull requests, patches), organizados em diários de bordo de cada participante  
-|-- atas/ → Atas de reuniões e decisões do grupo  
-|-- materiais/ → Referências e materiais de apoio usados no projeto
+- Relatar a experiência de contribuição para o projeto Oppia.
 
 ## Projeto Oppia
 
@@ -31,17 +24,20 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 
 ## Equipe
 
-1. **Bianca Patrocínio Castro - 221008801**
-2. **Carla de Araujo Clementino Ribeiro - 180030736**
-3. **Danilo de Melo Ribeiro - 232014244**
-4. **Gabriel Marques de Souza - 202016266**
-5. **Joao Paulo Monteiro de Barros Ceva Rodrigues - 202045141**
-6. **Lucas Gama de Araujo Bottino - 221008297**
-7. **Lucas Sales Ribeiro - 180105451**
-8. **Luiza Maluf Amorim - 221008294**
-9. **Luis Henrique Luz Costa - 180066161**
-10. **Maria Alice Bernardo da Costa Silva - 211063210**
-11. **Nathan Benigno Ponce de Abreu - 221022696**
-12. **Paulo Henrique Rossi de Borba - 190094273**
-13. **Pedro Sampaio Dias Rocha - 211043745**
-14. **Rodrigo Edmar Wright Dos Santos - 200027158**
+| Nome | Matrícula |
+| ---- | --------- |
+| Luiza Maluf Amorim | 221008294 |
+| Lucas Gama de Araujo Bottino | 221008297 |
+| Lucas Sales Ribeiro | 180105451 |
+| Maria Alice Bernardo da Costa Silva | 211063210 |
+| Pedro Sampaio Dias Rocha | 211043745 |
+| Paulo Henrique Rossi de Borba | 190094273 |
+| Rodrigo Edmar Wright Dos Santos | 200027158 |
+| Carla de Araujo Clementino Ribeiro | 180030736 |
+| Ana Clara Barbosa Borges | 221007789 |
+| Bianca Patrocínio Castro | 221008801 |
+| Danilo de Melo Ribeiro | 232014244 |
+| Luis Henrique Luz Costa | 180066161 |
+| Nathan Benigno Ponce de Abreu | 221022696 |
+| Gabriel Marques de Souza | 202016266 |
+| João Paulo Monteiro de Barros Ceva Rodrigues | 202045141 |

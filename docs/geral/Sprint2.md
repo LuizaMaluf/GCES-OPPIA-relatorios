@@ -12,7 +12,11 @@
 
 ## 1. Objetivos da Sprint
 
-- [ ]
+
+- Contribuir para a evolução do Oppia removendo a dependência do parâmetro `SERVER_CAN_SEND_EMAILS` em todo o código.
+- Atualizar testes, controllers e cron jobs relacionados ao envio de emails.
+- Garantir que as funcionalidades de email continuem funcionando corretamente sem a plataforma parameter antiga.
+
 
 ---
 
@@ -20,22 +24,25 @@
 
 | Entrega                     | Status (Concluído/Parcial/Pendente) | Link/Referência                                             | Observações           |
 | --------------------------- | ----------------------------------- | ----------------------------------------------------------- | --------------------- |
-| |                          |  | |
+| Remoção do parâmetro SERVER_CAN_SEND_EMAILS | Concluído | [Issue #22727](https://github.com/oppia/oppia/issues/22727) | Alterações em `admin.py`, `cron.py` e `utils.py` |
+| Atualização de testes de email | Concluído | [Issue #22727](https://github.com/oppia/oppia/issues/22727) | Mock de requests implementado para testes de email |
+| Revisão de código e testes finais | Concluído | [Issue #22727](https://github.com/oppia/oppia/issues/22727)| Testes manuais e unitários OK |
 
 ---
 
 | Integrante    | Contribuições                                                                         | Links (PRs, Issues, Docs)                   | Observações          |
 | ------------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------- |
-|  | | | |
-|  |  | | |
-|   | |  | |
+| Luiza Maluf   | - Identificação dos locais onde `SERVER_CAN_SEND_EMAILS` era utilizado<br>- Alterações em `admin.py` e controllers de email<br>- Atualização de testes unitários com mocks<br>- Verificação da funcionalidade do cron<br>- Discussão de abordagem e validação com maintainers| [Issue #22727](https://github.com/oppia/oppia/issues/22727) | Foco em backend e testes |
+| Lucas Bottino | - Revisão das alterações feitas<br>- Ajustes em `cron.py` e `utils.py`<br>- Verificação de impactos nos envios de email |[Issue #22727](https://github.com/oppia/oppia/issues/22727) | Foco em backend e integração |
+
 
 ## 4. Maiores Avanços
 
 ✨ **Destaques da Sprint:**
 
--
--
+- Removemos com sucesso a dependência do parâmetro `SERVER_CAN_SEND_EMAILS`, simplificando o código e reduzindo condicionais desnecessárias.  
+- Todos os testes de envio de email foram ajustados para funcionar com mocks, mantendo a cobertura de testes intacta.  
+- Revisão colaborativa e validação das alterações antes de submeter o PR.  
 
 
 ---
@@ -44,20 +51,18 @@
 
 **Principais desafios enfrentados:**
 
--
--
+- Encontrar todas as ocorrências do parâmetro no código distribuído pelo Oppia.  
+- Ajustar testes sem quebrar a cobertura existente, principalmente com chamadas externas (URL requests).  
 
 ---
 
 ## 6. Lições Aprendidas
 
--
+- Como manter a consistência de funcionalidades enquanto remove parâmetros obsoletos.  
 
 
 ---
 
 ## 7. Planejamento para a Próxima Sprint
 
-- [ ] 
-- [ ]
-
+- [ ] Submeter o PR final com todas as alterações e evidências de testes.  
