@@ -28,13 +28,14 @@
 | Atualização de testes de email | Concluído | [Issue #22727](https://github.com/oppia/oppia/issues/22727) | Mock de requests implementado para testes de email |
 | Revisão de código e testes finais | Concluído | [Issue #22727](https://github.com/oppia/oppia/issues/22727)| Testes manuais e unitários OK |
 
+
 ---
 
 | Integrante    | Contribuições                                                                         | Links (PRs, Issues, Docs)                   | Observações          |
 | ------------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------- |
 | Luiza Maluf   | - Identificação dos locais onde `SERVER_CAN_SEND_EMAILS` era utilizado<br>- Alterações em `admin.py` e controllers de email<br>- Atualização de testes unitários com mocks<br>- Verificação da funcionalidade do cron<br>- Discussão de abordagem e validação com maintainers| [Issue #22727](https://github.com/oppia/oppia/issues/22727) | Foco em backend e testes |
 | Lucas Bottino | - Revisão das alterações feitas<br>- Ajustes em `cron.py` e `utils.py`<br>- Verificação de impactos nos envios de email |[Issue #22727](https://github.com/oppia/oppia/issues/22727) | Foco em backend e integração |
-
+| Nathan Abreu  | - Adicionei o aluno Pedro Sampaio para o meu fork para contribuirmos juntos na issue <br> - Ajustei a posição da imagem e subi para o fork principal <br> - Iniciamos o PR e estamos aguardando a a aprovação | [Issue #23387](https://github.com/oppia/oppia/issues/22727) | Foco em Front End|
 
 ## 4. Maiores Avanços
 
