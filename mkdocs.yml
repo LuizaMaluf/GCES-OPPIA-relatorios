@@ -1,0 +1,53 @@
+site_name: GCES OPPIA Relatórios
+site_url: https://luizamaluf.github.io/GCES-OPPIA-relatorios/
+repo_url: https://github.com/LuizaMaluf/GCES-OPPIA-relatorios
+theme:
+  name: material   
+nav:
+  - Home: index.md
+  - Geral:
+    - Sprint 0: geral/Sprint0.md
+    - Sprint 1: geral/Sprint1.md
+    - Sprint 2: geral/Sprint2.md
+  - Contribuições individuais:
+    - Bianca Patrocínio - 221008801: contribuicoes_individuais/BiancaPatrocinio-221008801/diarioDeBordo.md
+    - Luiza Maluf - 221008294: contribuicoes_individuais/LuizaMaluf-221008294/Sprint0.md
+   
+  - Materiais:
+    - Template do Diário de bordo: materiais/template-diario-bordo.md
+    - Template do relatório: materiais/template-relatorio.md
+    - Como abrir uma PR: materiais/como-abrir-pr.md
+    - Regras para fazer PRs: materiais/regras-para-pr.md
+
+
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.expand
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+
+plugins:
+  - search
+  - tags
