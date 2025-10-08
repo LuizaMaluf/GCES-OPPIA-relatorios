@@ -31,6 +31,7 @@
 | Lucas Bottino | Contribuição de código na issue [#22915](https://github.com/oppia/oppia/issues/22915) | https://github.com/oppia/oppia/issues/22915 | Aguardando aprovação |
 | Luiza Maluf   | Contribuição de código na issue [#22915](https://github.com/oppia/oppia/issues/22915) | https://github.com/oppia/oppia/issues/22915 | Aguardando aprovação |
 | Bianca Patrocínio   | Guia de relato em como resolver problemas na instalação no Ubuntu 24.04.03 via Docker | https://github.com/oppia/oppia/discussions/23454 | Concluído |
+| Gabriel Moura dos Santos | Investigação da issue [#16097](https://github.com/oppia/oppia/issues/16097) - CI flake em testes E2E | https://github.com/oppia/oppia/issues/16097 | Em investigação |
 
 ## 4. Maiores Avanços
 

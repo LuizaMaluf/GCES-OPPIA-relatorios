@@ -38,7 +38,7 @@
 | Danilo de Melo Ribeiro | Estudo sobre o projeto, Configuração do ambiente, Criação do diário de bordo                                                 | [diario de bordo](../contribuicoes_individuais/DaniloMelo-232014244/Sprint0.md)       | Concluído   |
 | Pedro Sampaio          | Estudo da documentação; Mapeamento das políticas de contribuição do Oppia; Configuração do ambiente.                         | [diario de bordo](../contribuicoes_individuais/PedroSampaio-211043745/Sprint0.md)     | Concluído   |
 | Lucas Bottino          | Estudo sobre o projeto Oppia; Fork do projeto e configuração do ambiente local; Estudo sobre a documentação e GCES do Oppia. | [diario de bordo](../contribuicoes_individuais/LucasBottino-221008267/Sprint0.md)     | Concluído   |
-
+| Gabriel Moura          | Estudo da documentação; Assinatura do CLA e formulário de contribuição; Configuração do ambiente de desenvolvimento em Ubuntu; Execução do backend localmente | [diario de bordo](../contribuicoes_individuais/GabrielMouradosSantos-221008060/Sprint0.md) | Concluído |
 
 ---
 
