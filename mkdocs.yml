@@ -16,6 +16,8 @@ nav:
   - Materiais:
     - Template do Diário de bordo: materiais/template-diario-bordo.md
     - Template do relatório: materiais/template-relatorio.md
+    - Como abrir uma PR: materiais/como-abrir-pr.md
+    - Regras para fazer PRs: materiais/regras-para-pr.md
 
 
 

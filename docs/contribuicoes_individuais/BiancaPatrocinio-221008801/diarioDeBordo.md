@@ -91,7 +91,7 @@ Containers do Docker rodando:
 
 ### Maiores Dificuldades
 
-* Passei muito tempo tentando rodar o projeto, isso me atrasoi bastante em relação ao que eu tinha idealizado para a Sprint 1. Tentei rodar no Windowws, no Mac, via Linux e fui conseguir rodar por Linux via Docker.
+* Passei muito tempo tentando rodar o projeto, isso me atrasoi bastante em relação ao que eu tinha idealizado para a Sprint 1. Tentei rodar no Windows, no Mac, via Linux e fui conseguir rodar por Linux via Docker.
 
 * Como o projeto é bastante grande, tive uma certa dificuldade de achar alguns links, tem que procurar em mais de um repositório para identificar 
 
@@ -105,3 +105,48 @@ Containers do Docker rodando:
 * [ ] Buscar good-first issues para serem realizadas.
 * [ ] Me aprofundar nos padrões do projeto.
 * [ ] Abrir a minha primeira Issue.
+
+
+## Sprint 2 – \[25/09 – 08/10]
+
+### Resumo da Sprint
+
+Essa sprint foi focada em entender sobre o código, ler documentação e navegar pelo site.
+
+### Atividades Realizadas
+
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 29/09 | Naveguei pelo site | Estudo |  [Link](https://www.oppia.org/) | Concluído |
+| 04/09 | Tradução do aquivo de como abrir um bom PR | Documentação| [Link](https://luizamaluf.github.io/GCES-OPPIA-relatorios/materiais/regras-para-pr/) | Concluído |
+| 04/09 | Tradução do aquivo de regras de como abrir uma PR | Documentação| [Link](https://luizamaluf.github.io/GCES-OPPIA-relatorios/materiais/regras-para-pr/)| Concluído|
+| 06/09 | Ajustes no GitPags  | Documentação | [Link](https://luizamaluf.github.io/GCES-OPPIA-relatorios/) | Concluído |
+| 01/10 | Me aprofudando no codebase do Oppia | Estudo | [Link](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase) | Em andamento |
+
+
+### Maiores Avanços
+
+* Realizei a tradução com o auxílio do Gemini da wiki sobre PRs.
+
+* Estou estudando como funicona a arquitetura do projeto Oppia para poder pegar a minha primeira Issue
+
+* Naveguei pelo site, criei uma conta, achei uns problemas e estou analisando se ja foi criado issues.
+
+Conta criada:
+![Conta no Oppia](./assets/conta.png)
+
+
+
+### Maiores Dificuldades
+
+* Entender como funciona o código, cheguei a analisar as Issues para pegar alguma mas como não tenho familiaridade com as linguagens, ainda mais no front onde vi que grande parte das Issues são sobre, acabei decidindo dar um passo para atrás e estudar.
+
+### Aprendizados
+
+* Após navegar entendi melhor como o software oppia funciona e vi que há bastante melhoria a ser feita.
+* Entendi mais em regras e padrões do projeto
+
+### Plano Pessoal para a Próxima Sprint
+* [ ] Ter uma noção melhor do codebase do Oppia 
+* [ ] Procurar uma Issue para trabalhar
+* [ ] Documentar como funcionar para pegar uma Issue
