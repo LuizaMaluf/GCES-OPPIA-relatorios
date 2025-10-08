@@ -46,3 +46,4 @@ Repositório oficial: [https://github.com/oppia](https://github.com/oppia)
 - Nathan Benigno Ponce de Abreu - 221022696
 - Gabriel Marques de Souza - 202016266
 - Joao Paulo Monteiro de Barros Ceva Rodrigues - 202045141
+- João Lucas Costa Vale - 170146243
