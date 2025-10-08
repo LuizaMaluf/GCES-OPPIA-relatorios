@@ -110,3 +110,46 @@ O trabalho envolveu identificar os arquivos responsáveis pelo componente de nav
 
 * [ ] Finalizar a submissão do PR com o vídeo de demonstração solicitado.  
 * [ ] Explorar novas issues relacionadas à **CI/CD** e **testes automatizados** no Oppia.   
+
+---
+
+## Sprint 2 – [25/09 – 08/10]
+
+### Resumo da Sprint
+
+Nesta sprint, o foco foi eu e o [Lucas Bottino](https://github.com/bottinolucas) trabalharmos na issue relacionada à **remoção do parâmetro `SERVER_CAN_SEND_EMAILS`**, garantindo que a funcionalidade de envio de emails permanecesse operacional sem depender de uma plataforma condicional. A atividade envolveu identificar todos os trechos do código que utilizavam o parâmetro, modificar os arquivos necessários e atualizar ou remover os testes que dependiam dele.
+
+### Atividades Realizadas
+
+| Data           | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status        |
+| -------------- | ----------------------------------------------------------- | --------------------------------- | --------------- | ------------- |
+| 25/09          | Estudo da issue e análise do uso de `SERVER_CAN_SEND_EMAILS` | Estudo | [Issue link](https://github.com/oppia/oppia/issues/22727) | Concluído     |
+| 26/09          | Identificação dos arquivos a serem modificados             | Código | `admin.py`, `cron.py`, `topic_viewer.py`, `topic_editor.py`, `email_manager.py`, entre outros | Concluído     |
+| 27/09 – 30/09  | Remoção do parâmetro e ajustes no código                   | Código | - | Concluído     |
+| 01/10 – 03/10  | Atualização de testes relacionados a envio de email        | Código | `email_manager_test.py` | Concluído     |
+| 04/10 – 06/10  | Testes locais do backend e validação do envio de emails    | Código | - | Concluído     |
+| 07/10 – 08/10  | Discussão com maintainers e ajustes finais                 | Discussão | [Issue link](https://github.com/oppia/oppia/issues/22727) | Em andamento  |
+
+### Maiores Avanços
+
+* Remoção completa do parâmetro `SERVER_CAN_SEND_EMAILS` e ajustes correspondentes no código.  
+* Atualização dos testes de email para refletir o comportamento sem condicional.  
+* Garantia de que a funcionalidade de envio de email continua funcionando corretamente em todas as partes do sistema.  
+
+### Maiores Dificuldades
+
+* Identificação de todos os pontos do código que dependiam do parâmetro antigo.  
+* Ajuste dos testes para não quebrar com a remoção do parâmetro.  
+* Necessidade de validar com maintainers antes de submeter o PR.  
+
+### Aprendizados
+
+* Experiência prática em **remover parâmetros de plataforma e refatorar código dependente**.  
+* Entendimento da importância de testes para manter estabilidade do backend durante alterações globais.  
+* Aprendizado sobre **comunicação com maintainers** e documentação de mudanças em PRs complexos.  
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Submeter o PR com todas as alterações e evidências de testes passando.  
+* [ ] Monitorar feedback dos maintainers e aplicar ajustes finais se necessário.  
+* [ ] Explorar novas issues de backend que envolvam **remoção de parâmetros ou simplificação de lógica**.
