@@ -84,4 +84,53 @@ Nesta sprint, eu reavaliei meu foco inicial no projeto. Descobri que o Oppia man
 
 -   [ ] Identificar e selecionar duas `good first issues` ou tarefas de escopo similar para começar a contribuir com código.
 -   [ ] Focar na implementação para compensar o período de estudo e adaptação desta sprint.
--   [ ] O objetivo principal é submeter, no mínimo, 2 _Pull Requests_ (PRs) de qualidade.
+-   [ ] O objetivo principal é submeter, 2 _Pull Requests_ (PRs) de qualidade.
+
+---
+
+### Sprint 2 – \[24/09 – 08/10]
+
+### Resumo da Sprint
+
+Esta sprint foi dedicada à **imersão** na arquitetura Android do projeto Oppia e à conclusão da primeira contribuição de código. O foco principal foi entender os padrões de código (MVP/MVVM/MVC), o uso de **Dagger** para injeção de dependência, e as diretrizes de testes do projeto. Embora o objetivo inicial de submeter múltiplos PRs não tenha sido totalmente atingido devido à complexidade do código, um PR inicial foi aberto com sucesso para resolver um bug de ordenação de idiomas, validando a correção da lógica implementada.
+
+### Atividades Realizadas
+
+| Data  | Atividade                                                                | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                         | Status     |
+| :---- | :----------------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------------------------------------------------ | :--------- |
+| 25/09 | Estudo da arquitetura, padrões do código, injeção de dependência         | Estudo                            | Documentação do Oppia e código-fonte                                                                    | Concluído  |
+| 04/10 | Identificação e análise do `good first issue` sobre ordenação de idiomas | Discussão/Estudo                  | Issue [\#5784](https://www.google.com/search?q=https://github.com/oppia/oppia-android/issues/5784)      | Concluído  |
+| 06/10 | Implementação da lógica de ordenação para idiomas de app e áudio         | Código                            | Snippets de código e arquivos `ViewModel` modificados                                                   | Concluído  |
+| 07/10 | Criação e abertura do _Pull Request_ para correção da ordenação          | Código                            | [PR **\#5988**](https://github.com/oppia/oppia-android/pull/5988)                                       | Aberto     |
+| 08/10 | Recebimento de _feedback_ do mantenedor sobre testes em CI               | Discussão                         | [Comentário do revisor na PR](https://github.com/oppia/oppia-android/pull/5988#issuecomment-3381112399) | Em Análise |
+
+### Maiores Avanços
+
+-   O primeiro **Pull Request (\#5988)** foi aberto, marcando a primeira contribuição de código ao projeto.
+-   Houve uma grande evolução na compreensão dos **padrões de codificação** do Oppia, algo essencial para mexer em um projeto tão complexo.
+
+Designado para a task #5784:
+
+![Designado para a task #5784](./assets/5784/assigned-issue.png)
+
+PR aberto:
+
+![PR aberto](./assets/5784/PR-issue.png)
+
+Comentário do mantenedor:
+
+![Comentário do mantenedor](./assets/5784/maintainer-comment-issue.png)
+
+### Maiores Dificuldades
+
+-   A complexidade e o tamanho do código-fonte do Oppia-Android exigiram muito tempo de estudo, o que impactou o plano inicial para esta sprint.
+-   O principal obstáculo atual é a **escrita de testes** para validar a alteração e o **continuo aprendizado sobre o projeto**. O PR recebeu _feedback_ solicitando a correção de testes em CI e a adição de novos testes para a funcionalidade modificada.
+
+### Aprendizados
+
+-   Aprendi na prática que em grandes projetos de código aberto, a **qualidade do teste** é tão crucial quanto a qualidade do código em si, e muitas vezes é o principal bloqueador para o _merge_.
+
+### Plano Pessoal para a Próxima Sprint
+
+-   [ ] Resolver o _feedback_ do PR \#5988, focando na escrita dos **testes** para a lógica de ordenação de idiomas.
+-   [ ] Identificar uma nova tarefa `good first issue` e garantir um segundo PR mergeado.
