@@ -93,3 +93,27 @@ Essa Sprint foquei em commitar o que eu tinha feito na Sprint passada (Sprint 01
 ### Aprendizados
 
 * Aprendi um pouco mais sobre a estrutura do projeto.
+
+
+## Sprint 3 – \[09/10 – 21/10]
+
+### Resumo da Sprint
+
+Essa sprint eu foquei em commitar e passar do pré-commit que existe no oppia na issue que me foi assinalada.
+
+### Atividades Realizadas
+
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 12/10 | Issue escolhida | Código                            | [Link](https://github.com/oppia/oppia/issues/22640) | Concluído |
+| 21/10 | Link Pull Request | Código | [Link](https://github.com/oppia/oppia/issues/22640) | Em pré-commit |
+
+
+
+### Maiores Dificuldades
+
+* Percebi que há uma incompatibilidade entre a arquitetura do meu computador (M3 Pro) e a arquitetura suportada pelo ambiente em que estou tentando rodar o Docker (compatível apenas com M1). Por causa disso, ao tentar realizar o commit pelo Docker, o processo não é concluído, pois a emulação necessária exige mais memória RAM do que a disponível na minha máquina.
+
+### Aprendizados
+
+* Aprendi um pouco mais sobre a arquitetura do projeto.
