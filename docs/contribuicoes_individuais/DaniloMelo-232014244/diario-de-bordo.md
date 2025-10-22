@@ -134,3 +134,51 @@ Comentário do mantenedor:
 
 -   [ ] Resolver o _feedback_ do PR \#5988, focando na escrita dos **testes** para a lógica de ordenação de idiomas.
 -   [ ] Identificar uma nova tarefa `good first issue` e garantir um segundo PR mergeado.
+
+### Sprint 3 – \[08/10 – 22/10]
+
+### Resumo da Sprint
+
+Esta sprint foi dedicada a **resolver o feedback técnico do Pull Request #5988**. O foco foi a correção e implementação de testes. O processo foi iterativo: uma primeira tentativa de implementação gerou um feedback detalhado do mantenedor (com mais de 12 alterações solicitadas), o que levou a uma análise mais profunda dos testes já existentes. Ao final, todas as correções foram implementadas e submetidas para revisão novamente.
+
+### Atividades Realizadas
+
+| Data  | Atividade                                                                                               | Tipo (Código/Doc/Discussão) | Link/Referência                                                             | Status    |
+| :---- | :------------------------------------------------------------------------------------------------------ | :-------------------------- | :-------------------------------------------------------------------------- | :-------- |
+| 09/10 | Análise inicial da arquitetura de testes                                                                | Estudo/Código               | Módulos de teste do Oppia                                                   | Concluído |
+| 16/10 | Primeira tentativa de implementação dos testes solicitados                                              | Código                      | Commits locais                                                              | Concluído |
+| 17/10 | Discussão com o mantenedor sobre a abordagem e recebimento de feedback detalhado (+12 pontos de ajuste) | Discussão                   | [Comentários no PR #5988](https://github.com/oppia/oppia-android/pull/5988) | Concluído |
+| 20/10 | Implementação final de todas as correções e novos testes solicitados                                    | Código                      | [Commits no PR #5988](https://github.com/oppia/oppia-android/pull/5988)     | Concluído |
+
+### Maiores Avanços
+
+-   Todo o feedback técnico do PR #5988 foi implementado. O PR agora contém as correções e testes solicitados, passando nas validações locais.
+-   Aprofundei meu conhecimento prático na suíte de testes do Oppia.
+-   O Pull Request está agora pronto para a revisão final do mantenedor.
+
+Comentário do mantenedor sobre testes adicionados:
+
+![Comentário do mantenedor sobre testes adicionados](./assets/5784/maintainer-comment-about-tests.png) - 17/10
+
+Resposta ao mantenedor:
+
+![Resposta ao mantenedor](./assets/5784/answer-for-the-maintainer.png) - 17/10
+
+Commits com as correções solicitadas:
+
+![Commits com as correções solicitadas](./assets/5784/commits-with-correct-tests.png) - 20/10
+
+### Maiores Dificuldades
+
+-   A principal dificuldade foi a complexidade da suíte de testes. A necessidade de analisar arquivos grandes e com contextos muito interligados tornou o processo de depuração e implementação mais lento que o esperado.
+
+### Aprendizados
+
+-   Em projetos grandes, é crucial entender como uma mudança afeta os testes já existentes para não introduzir regressões.
+-   Analisar e corrigir falhas apontadas pela CI é uma habilidade prática e indispensável para colaborar efetivamente.
+
+### Plano Pessoal para a Próxima Sprint
+
+-   [ ] Acompanhar ativamente o PR #5988, respondendo a qualquer novo feedback para garantir o **merge**.
+-   [ ] Identificar e ser designado para uma nova `good first issue`.
+-   [ ] Iniciar o desenvolvimento da nova issue com o objetivo de mergear um segundo PR até o final da sprint.
