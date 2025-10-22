@@ -128,9 +128,7 @@ Durante esta sprint adicionei o aluno Pedro Sampaio ao meu fork para trabalharmo
 
 ### Evidência da Conversa na Issue
 
-Espaço reservado para captura da conversa da issue (#23387):
-
-![Conversa da issue](image-issue-23387.png)
+![Evidência da issue](issue.png)
 
 ### Plano Pessoal para a Próxima Sprint
 
