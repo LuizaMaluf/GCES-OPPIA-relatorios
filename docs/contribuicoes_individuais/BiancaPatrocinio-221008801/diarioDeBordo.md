@@ -150,3 +150,48 @@ Conta criada:
 * [ ] Ter uma noção melhor do codebase do Oppia 
 * [ ] Procurar uma Issue para trabalhar
 * [ ] Documentar como funcionar para pegar uma Issue
+
+## Sprint 3 – \[09/10 – 21/10]
+
+### Resumo da Sprint
+
+Essa sprint foi focada em entender sobre o código, o processo em como pegar uma Issue e testar soluções.
+
+### Atividades Realizadas
+
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 12/10 | Busquei uma Issue para resolver | Estudo |  [Link](https://github.com/oppia/oppia/issues) | Concluído |
+| 15/10 | Comentário na Issue sobre uma inconscintência na tela de doação | Discussão | [Link](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188) | Concluído |
+| 17/10 | Conversa por e-mail com um Maintaner | Discussão | - | Concluído|
+| 20/10 | Dúvida em uma possível Issue minha | Discussão  | [Link](https://github.com/oppia/oppia/issues/23452) | Concluído |
+| 21/10 | Testando local e desenvolvendo solução | Código | [Link](https://github.com/oppia/oppia/issues/23452) | Em andamento |
+
+
+### Maiores Avanços
+
+* Consegui ter contato com um dos Maintener que é bastante ativo no projeto.
+![Conversa no email](./assets/email.png)
+
+* Tive discussões em Issues.
+
+* Entendi melhor como encontrar componentes do site, no código.
+
+
+### Maiores Dificuldades
+
+* Encontrar uma Issue que eu iria conseguir resolver, apesar de ter muitas as mais recente já tem pessoa assinada, ou estão em triagem.
+
+### Aprendizados
+
+* Antes eu achava que só de ter uma tag de bug já poderia tentar resolver, mas não, no oppia eles tem uma tag de triage needed que significa que aquela Issue ainda não está disponível para desenvolvimento, que precisa de pessoas para verificar se é realmente um bug ou uma feature.
+![Label de triagem](./assets/triage.png)
+* Fiquei contente pois em um bug que eu analisei, vi que eles faziam uma integração com um componente externo. Fiz um comentário, me responderam que ainda estava em triagem, mas depois de uns dias eles fecharam a Issue pois o componente era realmente externo.
+![Componente externo](./assets/external.png)
+* Estou confiante na Issue #23452, eles foram bem rápidos em responder e através da  minha mensagem perceberam que o erro era diferente do inicial.
+![Bug Tuor](./assets/bugTuor.png)
+
+### Plano Pessoal para a Próxima Sprint
+* [ ] Ter o assign da Issue #23452
+* [ ] Abrir PR da  Issue #23452
+* [ ] Procurar uma próxima Issue para contribuir
