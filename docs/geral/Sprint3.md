@@ -32,6 +32,8 @@
 | Revisão de código e testes finais | Concluído | [Issue #22727](https://github.com/oppia/oppia/issues/22727)| Testes manuais e unitários OK |
 | Correção de bug de responsividade | Concluído | [Issue #23439](https://github.com/oppia/oppia/issues/23439), [PR #23648](https://github.com/oppia/oppia/pull/23648) | PR submetido após correção de ambiente |
 | Documentação de problemas de ambiente | Concluído | [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios/blob/main/docs/materiais/problemas-ambiente.md) | Guia para resolver travamentos de docker cp e pre-commit no WSL |
+| Análise e discussão de Issues | Concluído | [Issue #23577](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188), [Issue #23452](https://github.com/oppia/oppia/issues/23452) | Comunicação com maintainer e análise de bugs. |
+| Investigação e desenvolvimento da solução | Parcial | [Issue #23452](https://github.com/oppia/oppia/issues/23452) | Testes locais e início da implementação (Issue #23452). |
 
 ---
 
@@ -40,6 +42,7 @@
 | Luiza Maluf   | - Tentativa de submissão do PR #22727<br>- Investigação de erros de backend e linting que impedem pre-push<br>- Registro e detalhamento dos problemas no Discussions da comunidade<br>- Comunicação com maintainers para suporte e validação| [Issue #22727](https://github.com/oppia/oppia/issues/22727), [#23646](https://github.com/oppia/oppia/discussions/23646), [#23633](https://github.com/oppia/oppia/discussions/23633), [#23631](https://github.com/oppia/oppia/discussions/23631) | Foco em backend, testes e documentação |
 | Lucas Bottino | - Investigação conjunta dos erros de backend e pre-push da issue #22727<br>- - Revisão dos arquivos modificados<br>- Testes locais para identificar causas de falha nos lint e nos testes unitários| [Issue #22727](https://github.com/oppia/oppia/issues/22727), [#23646](https://github.com/oppia/oppia/discussions/23646), [#23633](https://github.com/oppia/oppia/discussions/23633), [#23631](https://github.com/oppia/oppia/discussions/23631) | Trabalho colaborativo em backend e validação de alterações |
 | Maria Alice Bernardo | - Identificação e correção de bug de responsividade no editor de questões (UI).<br>- Investigação de sobreposição de CSS (`::ng-deep`, `margin` negativo) em componentes Angular.<br>- Diagnóstico e solução de problemas de ambiente Docker/WSL (`docker cp`, `pre-commit hooks`, `watch mode`)<br>- Submissão do PR da correção de UI. | [Issue #23439](https://github.com/oppia/oppia/issues/23439)<br>[PR #23648](https://github.com/oppia/oppia/pull/23648) | Foco em frontend (Angular/CSS), responsividade e configuração de ambiente. |
+| Bianca Patrocínio | - Busca e análise de Issues para contribuição.<br>- Discussão e análise de bug na Issue #23577 (tela de doação).<br>- Comunicação direta com Maintainer por e-mail.<br>- Abertura de discussão na Issue #23452 para esclarecimento de bug.<br>- Testes locais e início de desenvolvimento da solução para a Issue #23452. | [Issue #23577](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188)<br>[Issue #23452](https://github.com/oppia/oppia/issues/23452) | Foco em análise de Issues, comunicação com a comunidade e preparação para desenvolvimento. |
 
 
 ## 4. Maiores Avanços
@@ -49,7 +52,7 @@
 - Identificação e documentação de problemas críticos que bloqueiam o push no PR #22727.
 - Abertura de três discussions no repositório oficial para suporte e orientação dos maintainers.
 - Diagnóstico e solução de problemas complexos de configuração de ambiente (Docker/WSL), permitindo a execução correta dos `pre-commit hooks` e a compilação de frontend (`watch mode`).
-
+- Participação ativa em discussões técnicas nas Issues, ajudando a validar bugs e a redefinir escopos.
 
 ---
 
@@ -71,6 +74,9 @@
 - Aprendizado sobre a estabilidade do backend e manutenção de testes durante alterações globais.
 - Valor do trabalho colaborativo para resolver problemas complexos no código. 
 - Os `pre-commit hooks` são executados no ambiente onde o comando `git` é chamado (WSL) e podem falhar se chamados de uma GUI (VS Code) que usa um Git diferente (Windows).
+- Compreensão do fluxo de trabalho e triagem do Oppia: a tag triage needed é crucial e indica que a Issue ainda não está validada para desenvolvimento.
+- A importância de registrar e comunicar problemas técnicos (sejam de ambiente ou de bugs) de forma clara à comunidade.
+- O valor da análise e discussão nas Issues: um comentário pode validar o fechamento de uma Issue (ex: componente externo) ou ajudar a redefinir o escopo de um bug (ex: Issue #23452).
 
 ---
 
@@ -79,3 +85,4 @@
 - [ ] Corrigir erros de backend e linting conforme orientação dos maintainers.
 - [ ] Submeter finalmente o PR da issue #22727 com todas as evidências de testes passando.
 - [ ] Monitorar o PR #23647 e responder a revisões dos maintainers.
+* [ ] Trabalhar na Issue #23452
