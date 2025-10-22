@@ -1,4 +1,4 @@
-# Diário de Bordo – [Nathan Abreu]
+# Diário de Bordo – Nathan Abreu
 
 **Disciplina:** [Gestão da Configuração e Evolução de Software]  
 **Equipe:** [Oppia]  
@@ -43,9 +43,9 @@ Essa sprint foi focada em organizar a equipe, criar o fork e o repositório de d
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Procurar *good first issues* para começar a contribuir.  
-* [ ] Resolver a primeira issue e documentar o processo.  
-* [ ] Engajar-se mais nas reuniões e atividades da equipe GCES.  
+* [x] Procurar *good first issues* para começar a contribuir.  
+* [x] Resolver a primeira issue e documentar o processo.  
+* [x] Engajar-se mais nas reuniões e atividades da equipe GCES.  
 
 ---
 
@@ -90,6 +90,95 @@ Depois:
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Resolver uma nova issue no projeto.  
-* [ ] Colaborar para a criação de alguma questão para o Oppia.  
-* [ ] Engajar-se de forma mais participativa nas reuniões da equipe da disciplina de GCES.  
+* [x] Resolver uma nova issue no projeto.  
+* [x] Colaborar para a criação de alguma questão para o Oppia.  
+* [x] Engajar-se de forma mais participativa nas reuniões da equipe da disciplina de GCES.
+
+---
+
+## Sprint 2 – [25/09 – 08/10]
+
+### Resumo da Sprint
+
+Durante esta sprint adicionei o aluno Pedro Sampaio ao meu fork para trabalharmos juntos na issue, ajustei a posição da imagem e subi a versão corrigida para o fork principal, e iniciamos o Pull Request que aguarda aprovação. A issue trabalhada foi a #23387 (substituição de imagens).
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | ---------- | --------------------------------- | --------------- | ------ |
+| 25/09 | Adição de Pedro Sampaio ao fork para pair programming | Outro |  [Issue #23387](https://github.com/oppia/oppia/issues/23387)  | Concluído |
+| 27/09 | Ajuste da posição da imagem e upload para o fork principal | Código |  [Issue #23387](https://github.com/oppia/oppia/issues/23387)  | Concluído |
+| 30/09 | Início do Pull Request e interação na issue | Código/Discussão | [Issue #23387](https://github.com/oppia/oppia/issues/23387) | Em andamento |
+
+### Maiores Avanços
+
+* Integração do Pedro no fluxo de trabalho do fork para trabalharmos em pair programming.  
+* Correção e reposicionamento da imagem no repositório forkado.  
+* Abertura do PR iniciando o processo de revisão pelos mantenedores.
+
+### Maiores Dificuldades
+
+* Coordenação do trabalho em pair com revisão e sincronização de commits.  
+* Aguardar a triagem/assign do maintainer e a aprovação do PR.
+
+### Aprendizados
+
+* Práticas de colaboração em pair programming dentro de um fork.  
+* Fluxo de atualização de assets (imagens) e como preparar o PR para revisão.
+
+### Evidência da Conversa na Issue
+
+Espaço reservado para captura da conversa da issue (#23387):
+
+![Conversa da issue](image-issue-23387.png)
+
+### Plano Pessoal para a Próxima Sprint
+
+* [x] Começar as contribuições de tradução no repositório.  
+* [x] Finalizar o Pull Request iniciado nesta sprint (concluído posteriormente na Sprint 3).
+
+---
+
+## Sprint 3 – [09/10 – 21/10]
+
+### Resumo da Sprint
+
+Nessa sprint finalizei o Pull Request relacionado ao Oppia após resolver a pipeline de testes que estava bloqueando a integração. Também iniciei contribuições de traduções para o repositório (adaptação de strings e revisão de arquivos de locale) e registrei os primeiros commits de tradução. O link do PR finalizado está abaixo.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | ---------- | --------------------------------- | --------------- | ------ |
+| 12/10 | Resolução da pipeline de testes e finalização do PR | Código | [PR #23560](https://github.com/oppia/oppia/pull/23560#issuecomment-3425653565) | Concluído |
+| 15/10 | Início da contribuição de traduções (strings e arquivos locale) | Código/Doc | Imagem 01 | Em andamento |
+| 21/10 | Planejamento de próxima issue em pair programming com Pedro | Discussão/Outro | imagem 02| Pendente |
+
+### Maiores Avanços
+
+* Finalização do PR após corrigir falhas na pipeline de testes. Link: https://github.com/oppia/oppia/pull/23560#issuecomment-3425653565  
+* Início efetivo das contribuições de tradução no repositório.  
+* Registro dos passos e commits iniciais para facilitar revisão por mantenedores.
+
+### Maiores Dificuldades
+
+* Ajustes na pipeline de testes que exigiram depuração de integração contínua.  
+* Organização das traduções entre diferentes arquivos de locale e garantir consistência.
+
+### Aprendizados
+
+* Como investigar e corrigir falhas na pipeline de testes do projeto.  
+* Boas práticas ao iniciar contribuições de tradução (naming, contexto das strings, revisão).
+
+### Contribuições de Tradução
+
+Ainda em andamento — espaço reservado para adicionar evidências visuais (prints/capturas) das minhas contribuições de tradução:
+
+![Tradução - captura 1](imagem-trad-01.png)
+
+![Tradução - captura 2](imagem-trad-02.png)
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Encontrar uma issue para trabalhar em pair programming com o Pedro.  
+* [ ] Continuar as contribuições de tradução e completar revisão de strings pendentes.  
+* [ ] Abrir PRs menores para facilitar revisão e integração contínua.

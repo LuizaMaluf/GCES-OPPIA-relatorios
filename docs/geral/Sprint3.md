@@ -33,7 +33,10 @@
 | Correção de bug de responsividade | Concluído | [Issue #23439](https://github.com/oppia/oppia/issues/23439), [PR #23648](https://github.com/oppia/oppia/pull/23648) | PR submetido após correção de ambiente |
 | Documentação de problemas de ambiente | Concluído | [Link](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios/blob/main/docs/materiais/problemas-ambiente.md) | Guia para resolver travamentos de docker cp e pre-commit no WSL |
 | Análise e discussão de Issues | Concluído | [Issue #23577](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188), [Issue #23452](https://github.com/oppia/oppia/issues/23452) | Comunicação com maintainer e análise de bugs. |
+|Finalizando PR de Front-end da troca de imagens para imagens de maior qualidade!| Concluído | [Issue #23387](https://github.com/oppia/oppia/issues/23387) |Erro na pipeline devido ao versionamento errado do repositório corrigido. |
 | Investigação e desenvolvimento da solução | Parcial | [Issue #23452](https://github.com/oppia/oppia/issues/23452) | Testes locais e início da implementação (Issue #23452). |
+
+
 
 ---
 
@@ -43,6 +46,7 @@
 | Lucas Bottino | - Investigação conjunta dos erros de backend e pre-push da issue #22727<br>- - Revisão dos arquivos modificados<br>- Testes locais para identificar causas de falha nos lint e nos testes unitários| [Issue #22727](https://github.com/oppia/oppia/issues/22727), [#23646](https://github.com/oppia/oppia/discussions/23646), [#23633](https://github.com/oppia/oppia/discussions/23633), [#23631](https://github.com/oppia/oppia/discussions/23631) | Trabalho colaborativo em backend e validação de alterações |
 | Maria Alice Bernardo | - Identificação e correção de bug de responsividade no editor de questões (UI).<br>- Investigação de sobreposição de CSS (`::ng-deep`, `margin` negativo) em componentes Angular.<br>- Diagnóstico e solução de problemas de ambiente Docker/WSL (`docker cp`, `pre-commit hooks`, `watch mode`)<br>- Submissão do PR da correção de UI. | [Issue #23439](https://github.com/oppia/oppia/issues/23439)<br>[PR #23648](https://github.com/oppia/oppia/pull/23648) | Foco em frontend (Angular/CSS), responsividade e configuração de ambiente. |
 | Bianca Patrocínio | - Busca e análise de Issues para contribuição.<br>- Discussão e análise de bug na Issue #23577 (tela de doação).<br>- Comunicação direta com Maintainer por e-mail.<br>- Abertura de discussão na Issue #23452 para esclarecimento de bug.<br>- Testes locais e início de desenvolvimento da solução para a Issue #23452. | [Issue #23577](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188)<br>[Issue #23452](https://github.com/oppia/oppia/issues/23452) | Foco em análise de Issues, comunicação com a comunidade e preparação para desenvolvimento. |
+| Nathan Abreu | - Finalizando PR arrumando bug na pipeline que quebrava alguns testes!<br>-Começando as contribuições de tradução Inglês para português!| [PR #23560](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188)<br> | Contribuir com colaborações em de inglês para francês.
 
 
 ## 4. Maiores Avanços
@@ -64,6 +68,7 @@
 - Dependência da validação e suporte dos maintainers para corrigir erros complexos.
 - Configuração inicial do ambiente de desenvolvimento no Windows (WSL), especificamente a lentidão do `docker cp` e a falha dos `pre-commit hooks` ao commitar pela UI do VS Code.
 - Depuração de CSS em componentes Angular aninhadose análise de regras de CSS conflitantes entre componentes.
+- Erro de pipeline dos testes unitários do repositório que falham com a versão diferente do Python.
 
 ---
 
@@ -86,3 +91,4 @@
 - [ ] Submeter finalmente o PR da issue #22727 com todas as evidências de testes passando.
 - [ ] Monitorar o PR #23647 e responder a revisões dos maintainers.
 * [ ] Trabalhar na Issue #23452
+- [ ] Traduzir exercícios de inglês para francês.
