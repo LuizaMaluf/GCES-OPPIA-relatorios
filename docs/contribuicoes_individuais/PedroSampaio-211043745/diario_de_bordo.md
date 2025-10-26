@@ -121,3 +121,42 @@ No início de outubro, comecei a contribuir com o projeto em colaboração com N
 - [ ] Finalizar o Pull Request atual: Acompanhar o PR, implementar os feedbacks da revisão e realizar as alterações necessárias para obter o merge.
 - [ ] Contribuir com novo conteúdo: Adicionar um novo item ao banco de conteúdo da plataforma, que pode ser uma questão ou um storytelling.
 - [ ] Iniciar uma contribuição mais complexa: Identificar e assumir uma nova issue com um nível de complexidade maior. (Se possível)
+
+---
+
+## Sprint 3 – [09/10 – 21/10]
+
+### Resumo da Sprint
+Esta sprint foi marcada pela consolidação das primeiras contribuições diretas ao repositório da Oppia, envolvendo tanto código quanto traduções de conteúdo educativo. O Pull Request relacionado às imagens em baixa resolução foi finalizado e integrado ao projeto após a resolução de problemas no pipeline. Além disso, houve participação ativa no processo de tradução de uma lição completa sobre energia renovável. As contribuições foram reconhecidas pela plataforma com a concessão de badges da comunidade. Como continuidade do trabalho, iniciou-se a identificação de uma nova issue para desenvolvimento em pair programming.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 12/10 | Fechamento do Pull Request referente às imagens em baixa resolução, em colaboração com [Nathan Abreu](https://github.com/nateejpg). | Pull Request | [Link para o PR](https://github.com/oppia/oppia/pull/23560) | Concluído |
+| 12/10 | Realização do merge do Pull Request. | Merge | [Link para o commit](https://github.com/oppia/oppia/commit/30d483afaa3bff758dd0c42248e05be5624e6f8f) | Concluído |
+| 12/10 a 15/10 | Tradução da atividade “Renewable and Non-renewable Energy.” | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_1.png) • [Comprovante 2](./imagens/comprovacao_traducao_2.png) | Concluído |
+| 20/10 | Traduções aprovadas pela comunidade. | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_3.png) • [Comprovante 2](./imagens/comprovacao_traducao_4.png) | Concluído |
+| 20/10 | Recebimento de badges da comunidade Oppia pelas traduções aprovadas. | Reconhecimento | [Badges](./imagens/comprovacao_traducao_5.png) | Concluído |
+| 21/10 | Início da busca por uma nova issue para desenvolvimento em pair programming com [Nathan Abreu](https://github.com/nateejpg). | Issue | Sem comprovantes | Em andamento |
+
+### Maiores Avanços
+
+- Primeira contribuição em código para o projeto: https://github.com/oppia/oppia/pull/23560.
+- Primeira contribuição em traduções no projeto. Em colaboração com [Nathan Abreu](https://github.com/nateejpg), realizamos grande parte da tradução de uma lição sobre energia renovável. O conteúdo estava com 0% traduzido no início da sprint e atualmente apresenta 52% traduzido, com outros 40% já enviados para revisão. Após a aprovação, a atividade alcançará 92% de tradução concluída. Determinadas partes não foram traduzidas devido às dificuldades com a ferramenta de edição de imagens do projeto.
+- Recebimento de badges oficiais da comunidade por traduções aprovadas.
+
+### Maiores Dificuldades
+
+- Dificuldades no pipeline do Pull Request, o que exigiu quase uma semana para identificar e corrigir o problema.
+- Comunicação lenta com a equipe de revisão, com respostas demoradas que impactam o andamento das validações.
+
+### Aprendizados
+
+- Melhor compreensão do fluxo de tradução e criação de questões no projeto, complementando o aprendizado técnico com o repositório.
+- Aperfeiçoamento das práticas relacionadas ao processo de revisão e aprovação de Pull Requests no projeto Oppia.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Iniciar uma contribuição de maior complexidade, assumindo uma nova issue mais desafiadora (se possível).
+- [ ] Acompanhar a revisão das traduções pendentes e realizar ajustes caso necessário.
