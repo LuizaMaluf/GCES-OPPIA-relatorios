@@ -135,8 +135,8 @@ Esta sprint foi marcada pela consolidação das primeiras contribuições direta
 | :--- | :--- | :--- | :--- | :--- |
 | 12/10 | Fechamento do Pull Request referente às imagens em baixa resolução, em colaboração com [Nathan Abreu](https://github.com/nateejpg). | Pull Request | [Link para o PR](https://github.com/oppia/oppia/pull/23560) | Concluído |
 | 12/10 | Realização do merge do Pull Request. | Merge | [Link para o commit](https://github.com/oppia/oppia/commit/30d483afaa3bff758dd0c42248e05be5624e6f8f) | Concluído |
-| 12/10 a 15/10 | Tradução da atividade “Renewable and Non-renewable Energy.” | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_1.png) • [Comprovante 2](./imagens/comprovacao_traducao_2.png) | Concluído |
-| 20/10 | Traduções aprovadas pela comunidade. | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_3.png) • [Comprovante 2](./imagens/comprovacao_traducao_4.png) | Concluído |
+| 12/10 a 15/10 | Tradução da atividade “Renewable and Non-renewable Energy.” | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_1.png) | Concluído |
+| 20/10 | Traduções aprovadas pela comunidade. | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_3.png) • [Comprovante 2](./imagens/comprovacao_traducao_4.png) • [Comprovante 3](./imagens/comprovacao_traducao_2.png) | Concluído |
 | 20/10 | Recebimento de badges da comunidade Oppia pelas traduções aprovadas. | Reconhecimento | [Badges](./imagens/comprovacao_traducao_5.png) | Concluído |
 | 21/10 | Início da busca por uma nova issue para desenvolvimento em pair programming com [Nathan Abreu](https://github.com/nateejpg). | Issue | Sem comprovantes | Em andamento |
 
