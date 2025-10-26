@@ -142,7 +142,7 @@ Esta sprint foi marcada pela consolidação das primeiras contribuições direta
 
 ### Maiores Avanços
 
-- Primeira contribuição em código para o projeto: https://github.com/oppia/oppia/pull/23560.
+- Primeira contribuição em código para o projeto: [Link para o PR](https://github.com/oppia/oppia/pull/23560).
 - Primeira contribuição em traduções no projeto. Em colaboração com [Nathan Abreu](https://github.com/nateejpg), realizamos grande parte da tradução de uma lição sobre energia renovável. O conteúdo estava com 0% traduzido no início da sprint e atualmente apresenta 52% traduzido, com outros 40% já enviados para revisão. Após a aprovação, a atividade alcançará 92% de tradução concluída. Determinadas partes não foram traduzidas devido às dificuldades com a ferramenta de edição de imagens do projeto.
 - Recebimento de badges oficiais da comunidade por traduções aprovadas.
 
