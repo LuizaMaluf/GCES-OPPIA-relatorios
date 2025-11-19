@@ -195,3 +195,45 @@ Essa sprint foi focada em entender sobre o código, o processo em como pegar uma
 * [ ] Ter o assign da Issue #23452
 * [ ] Abrir PR da  Issue #23452
 * [ ] Procurar uma próxima Issue para contribuir
+
+## Sprint 4 – \[22/10 – 17/11]
+
+### Resumo da Sprint
+
+Essa sprint foi focada ter uma Issue, resolver ela e testar soluções.
+
+### Atividades Realizadas
+
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 08/11 | Adicionei um tópico na Discussão de Q&A (Installation) | Discussão |  [Link](https://github.com/oppia/oppia/discussions/23814) | Concluído |
+| 09/11 | Issue criada apartir da minha Discussão | Issue | [Link](https://github.com/oppia/oppia/issues/23815) | Concluído |
+| 09/11 | Pull Request Criado | Código | [Link](https://github.com/oppia/oppia/pull/23825) | Concluído|
+|11/11 | Discussão na Pull Request | Discussão  | [Link](https://github.com/oppia/oppia/pull/23825)  |  Em andamento  |
+| 15/11 | Testando local e desenvolvendo solução | Código | [Link](https://github.com/oppia/oppia/issues/23452) | Em andamento |
+
+
+### Maiores Avanços
+
+* Consegui rodar local o Oppia na minha máquina.
+![Rodando local](./assets/OppiaWorking.png)
+
+* Consegui a minha primeira Issue atribuida ao meu nome.
+
+* Consegui abrir um PR.
+
+
+### Maiores Dificuldades
+
+* A comunicação, estou há mais de uma semana aguardando o retorno do maintainer que está revisando a minha PR. Ele pediu um ajuste no teste unitário, mas o link que pediu para eu olhar como referência não possui nenhum código sobre isso.
+
+### Aprendizados
+
+* Aprendi que é possivel criarem Issue apartir de uma discussão.
+![Solução](./assets/discussao.png)
+* Aprendi como rodar e analisar erros do pré-push, eles rodam um código onde monitora os arquivos que mexeu antes de dar commit e push.
+* Formartei o meu computador e acabei focando em instalar o Oppia novamente, deixando a Issue #23452 de lado, voltei recentemente a olhar nela para pesquisar uma possível solução.
+
+### Plano Pessoal para a Próxima Sprint
+* [ ] Ter o assign da Issue #23452
+* [ ] Abrir PR da  Issue #23452
