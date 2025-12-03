@@ -131,15 +131,6 @@ Nesta Sprint 2, foi necessário novamente ampliar a configuração do ambiente d
 * [ ] Revisar e responder aos comentários de reviewers do PR de forma proativa.
 * [ ] Tentar começar ou fazer mais uma issue.
 
-
-# Diário de Bordo – \[Luiza Maluf Amorim]
-
-**Disciplina:** \[Gestão da Configuração e Evolução de Software]
-**Equipe:** \[Oppia]
-**Comunidade/Projeto de Software Livre:** \[Oppia]
-
----
-
 ## Sprint 4 – [22/10 – 05/11]
 
 ### Resumo da Sprint
