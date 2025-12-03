@@ -196,44 +196,119 @@ Essa sprint foi focada em entender sobre o código, o processo em como pegar uma
 * [ ] Abrir PR da  Issue #23452
 * [ ] Procurar uma próxima Issue para contribuir
 
-## Sprint 4 – \[22/10 – 17/11]
+
+## Sprint 4 – [22/10 – 05/11]
 
 ### Resumo da Sprint
 
-Essa sprint foi focada ter uma Issue, resolver ela e testar soluções.
+Esta sprint foi marcada por problemas técnicos com meu equipamento e a necessidade de reconfiguração do ambiente, além de retomar a análise da Issue iniciada na sprint anterior.
 
 ### Atividades Realizadas
 
 | Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
 | ----- | --------- | --------------------------------- | --------------- | ------ |
-| 08/11 | Adicionei um tópico na Discussão de Q&A (Installation) | Discussão |  [Link](https://github.com/oppia/oppia/discussions/23814) | Concluído |
-| 09/11 | Issue criada apartir da minha Discussão | Issue | [Link](https://github.com/oppia/oppia/issues/23815) | Concluído |
-| 09/11 | Pull Request Criado | Código | [Link](https://github.com/oppia/oppia/pull/23825) | Concluído|
-|11/11 | Discussão na Pull Request | Discussão  | [Link](https://github.com/oppia/oppia/pull/23825)  |  Em andamento  |
-| 15/11 | Testando local e desenvolvendo solução | Código | [Link](https://github.com/oppia/oppia/issues/23452) | Em andamento |
-
+| 25/10 | Reconfiguração do ambiente após formatação | Configuração | [Link](https://github.com/oppia/oppia/wiki/Installing-Oppia-using-Docker) | Concluído |
+| 28/10 | Estudo aprofundado da Issue \#23452 | Estudo | [Link](https://github.com/oppia/oppia/issues/23452) | Em andamento |
+| 03/11 | Tentativa de reprodução do erro localmente | Código | - | Em andamento |
 
 ### Maiores Avanços
 
-* Consegui rodar local o Oppia na minha máquina.
-![Rodando local](./assets/OppiaWorking.png)
-
-* Consegui a minha primeira Issue atribuida ao meu nome.
-
-* Consegui abrir um PR.
-
+  * Consegui rodar local o Oppia na minha máquina sem ser via Docker, após formatar o computador.
+  * Retomei o foco na Issue \#23452 para pesquisar uma possível solução.
 
 ### Maiores Dificuldades
 
-* A comunicação, estou há mais de uma semana aguardando o retorno do maintainer que está revisando a minha PR. Ele pediu um ajuste no teste unitário, mas o link que pediu para eu olhar como referência não possui nenhum código sobre isso.
+  * Tive que formatar meu computador, o que consumiu boa parte do tempo da sprint reinstalando dependências, Docker e configurando o ambiente Linux novamente.
+  * O processo de *setup* do Oppia é demorado e propenso a falhas de versão.
 
 ### Aprendizados
 
-* Aprendi que é possivel criarem Issue apartir de uma discussão.
-![Solução](./assets/discussao.png)
-* Aprendi como rodar e analisar erros do pré-push, eles rodam um código onde monitora os arquivos que mexeu antes de dar commit e push.
-* Formartei o meu computador e acabei focando em instalar o Oppia novamente, deixando a Issue #23452 de lado, voltei recentemente a olhar nela para pesquisar uma possível solução.
+  * Reforcei o aprendizado sobre a instalação via Docker.
+  * Aprendi a importância de ter um backup ou scripts de configuração para agilizar o setup do ambiente de desenvolvimento.
 
 ### Plano Pessoal para a Próxima Sprint
-* [ ] Ter o assign da Issue #23452
-* [ ] Abrir PR da  Issue #23452
+
+  * [ ] Transformar a discussão da instalação em uma contribuição real.
+  * [ ] Tentar solucionar a Issue \#23452.
+
+-----
+
+## Sprint 5 – [06/11 – 17/11]
+
+### Resumo da Sprint
+
+Foco total em converter as discussões e aprendizados em contribuições concretas (Issues e PRs).
+
+### Atividades Realizadas
+
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 08/11 | Adicionei um tópico na Discussão de Q\&A (Installation) | Discussão |  [Link](https://github.com/oppia/oppia/discussions/23814) | Concluído |
+| 09/11 | Issue criada a partir da minha Discussão | Issue | [Link](https://github.com/oppia/oppia/issues/23815) | Concluído |
+| 09/11 | Pull Request Criado | Código | [Link](https://github.com/oppia/oppia/pull/23825) | Concluído|
+| 11/11 | Discussão na Pull Request | Discussão  | [Link](https://github.com/oppia/oppia/pull/23825)  |  Em andamento  |
+| 15/11 | Testando local e desenvolvendo solução | Código | [Link](https://github.com/oppia/oppia/issues/23452) | Em andamento |
+
+### Maiores Avanços
+
+  * **Primeira Issue atribuída:** Consegui transformar uma discussão sobre instalação em uma Issue formal (\#23815).
+  * **Primeiro PR Aberto:** Abri o PR \#23825 resolvendo a issue de documentação/instalação.
+
+### Maiores Dificuldades
+
+  * **Comunicação assíncrona:** Estou aguardando retorno do maintainer sobre o PR. Ele solicitou um ajuste em teste unitário, mas a documentação/link de referência que ele passou não contém o exemplo necessário, dificultando o avanço.
+
+### Aprendizados
+
+  * **Fluxo Discussão -\> Issue:** Aprendi que é possível criar uma Issue diretamente a partir de uma discussão no GitHub.
+  * **Pre-push hooks:** Entendi como o Oppia utiliza scripts de pré-push para verificar erros e monitorar arquivos antes do commit.
+
+### Plano Pessoal para a Próxima Sprint
+
+  * [ ] Finalizar o merge do PR \#23825.
+  * [ ] Consolidar as contribuições finais.
+
+-----
+
+## Sprint 6 – [18/11 – Atual]
+
+### Resumo da Sprint
+
+Esta sprint final foi dedicada à consolidação das contribuições realizadas ao longo do semestre e à reflexão sobre os desafios enfrentados no projeto Oppia.
+
+### Contribuições Individuais
+
+Abaixo estão listadas as contribuições efetivas realizadas no repositório:
+
+1.  **Issue \#23815 (Installation Documentation):**
+
+      * *Descrição:* Identifiquei que novos contribuidores (incluindo eu mesma) tinham dificuldades recorrentes com a instalação e que as soluções estavam dispersas em discussões, não na wiki oficial.
+      * *Status:* **Resolvida/Convertida em PR**.
+      * *Link:* [Issue \#23815](https://github.com/oppia/oppia/issues/23815)
+
+2.  **Pull Request \#23825:**
+
+      * *Descrição:* Atualização da documentação de instalação para incluir soluções para problemas comuns enfrentados por usuários Linux/Docker, facilitando o *onboarding* de novos desenvolvedores.
+      * *Status:* Em revisão (Aguardando feedback final do maintainer sobre testes).
+      * *Link:* [PR \#23825](https://github.com/oppia/oppia/pull/23825)
+
+3.  **Discussão \#23814 #23454(Q\&A):**
+
+      * *Descrição:* Documentação ativa de erros e soluções na aba de discussões da comunidade.
+      * *Link:* [Discussion \#23814](https://github.com/oppia/oppia/discussions/23814)
+      * *Link:* [Discussion \#23454](https://github.com/oppia/oppia/discussions/23454)
+
+### Dificuldades Gerais no Projeto
+
+Durante todo o período de contribuição para o Oppia, as maiores barreiras encontradas foram:
+
+ * **Disponibilidade e Concorrência por Issues:** Era extremamente difícil conseguir pegar ("claim") uma Issue. Como o projeto é global e ativo, o tempo necessário para eu estudar o problema e o código era maior do que a rotatividade das tarefas. Frequentemente, quando eu terminava de entender e estava pronta para desenvolver, a Issue já havia sido resolvida por outra pessoa ou já tinha um assignee definido. Isso gerou uma barreira para mim em conseguir contribuir nas Issues.
+
+  * **Complexidade do Ambiente (Setup):** A barreira de entrada é extremamente alta. A configuração envolve Docker, Python, configurações específicas de Linux e scripts proprietários do Oppia. Grande parte do tempo (Sprints 0, 1 e 4) foi consumida apenas tentando fazer o software rodar localmente ("It works on my machine" é um problema real aqui).
+  * **Curva de Aprendizado do Codebase:** O projeto é massivo. Localizar onde um componente visual está definido no código exige navegação por múltiplos diretórios e entendimento de uma arquitetura legada misturada com novas implementações (Angular/Python).
+  * **Processo de Triagem e Comunicação:** O fluxo de contribuição é rígido. Issues precisam passar por triagem ("Triage Needed") antes de serem disponibilizadas. Além disso, a comunicação com maintainers, apesar de educada, pode ser lenta devido a fusos horários e alta demanda de revisões, como ocorreu no bloqueio do meu PR por falta de referência clara sobre testes unitários.
+  * **Documentação vs. Realidade:** Embora a documentação seja extensa, em alguns pontos ela está desatualizada em relação ao estado atual do código ou assume conhecimentos prévios que novos contribuidores não possuem.
+
+### Conclusão
+
+Apesar das dificuldades técnicas, a experiência proporcionou um entendimento profundo sobre o ciclo de vida de um projeto Open Source de grande escala, desde a etiqueta de comunicação em Issues até a complexidade de manter um ambiente de CI/CD e testes rigorosos.
