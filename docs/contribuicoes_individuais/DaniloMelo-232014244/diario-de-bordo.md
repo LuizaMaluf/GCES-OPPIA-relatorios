@@ -182,3 +182,61 @@ Commits com as correções solicitadas:
 -   [ ] Acompanhar ativamente o PR #5988, respondendo a qualquer novo feedback para garantir o **merge**.
 -   [ ] Identificar e ser designado para uma nova `good first issue`.
 -   [ ] Iniciar o desenvolvimento da nova issue com o objetivo de mergear um segundo PR até o final da sprint.
+
+### Sprint 4 – [22/10 – 05/11]
+
+#### Resumo da Sprint
+
+Esta sprint foi dividida entre a contribuição para a comunidade e o início dos trabalhos da disciplina de GCES. O foco principal foi o **estudo e planejamento**, incluindo a aprovação de um Pull Request e a **leitura/análise** do projeto para preparar a implementação que ocorreria na sprint seguinte.
+
+#### Atividades Realizadas
+
+| Data  | Atividade                                                                                                             | Tipo   | Status    |
+| :---- | :-------------------------------------------------------------------------------------------------------------------- | :----- | :-------- |
+| 29/10 | [PR](https://github.com/oppia/oppia-android/pull/5988) aprovado por [adhiamboperes](https://github.com/adhiamboperes) | Estudo | Concluído |
+| 04/11 | Leitura detalhada do enunciado e análise da estrutura do projeto mk.js                                                | Código | Concluído |
+
+#### Maiores Avanços
+
+-   Aprovação bem-sucedida de um PR no repositório, consolidando conhecimentos em colaboração Open Source.
+-   Mapeamento da estrutura do projeto, identificando os requisitos necessários para a futura containerização.
+
+#### Maiores Dificuldades
+
+-   Compreender a estrutura do código antes de iniciar as configurações de ambiente.
+
+#### Aprendizados
+
+-   Entendimento do fluxo de revisão de código em grandes projetos Open Source.
+
+---
+
+### Sprint 5 – [06/11 – 20/11]
+
+#### Resumo da Sprint
+
+Esta sprint foi dedicada à **implementação técnica** do trabalho de GCES. O foco foi a **containerização do projeto em ambiente de desenvolvimento (DEV)** e na construção da **pipeline de Integração Contínua (CI)**. O objetivo foi garantir um ambiente isolado e reproduzível via Docker, além de configurar validações automáticas (build, lint e testes).
+
+#### Atividades Realizadas
+
+| Data  | Atividade                                                                                                      | Tipo   | Status    |
+| :---- | :------------------------------------------------------------------------------------------------------------- | :----- | :-------- |
+| 09/11 | Implementação da **containerização da aplicação em ambiente DEV**, criando Dockerfiles para backend e frontend | Código | Concluído |
+| 09/11 | Criação do **Docker Compose (DEV)**                                                                            | Código | Concluído |
+| 10/11 | Adição da etapa **build** no GitLab CI, validando a construção da aplicação                                    | Código | Concluído |
+| 10/11 | Implementação da etapa **tests**, incluindo testes automatizados básicos                                       | Código | Concluído |
+| 10/11 | Configuração da etapa **lint**, garantindo qualidade e padronização do código                                  | Código | Concluído |
+
+#### Maiores Avanços
+
+-   O Docker Compose facilitou o gerenciamento da stack, permitindo subir todo o sistema com um único comando.
+-   O pipeline de CI foi estruturado com três etapas essenciais: **build**, **lint** e **tests**, garantindo um fluxo de validação automático.
+
+#### Maiores Dificuldades
+
+-   Configurar corretamente o ambiente DEV dentro dos containers exigiu ajustes e testes sucessivos.
+
+#### Aprendizados
+
+-   Consolidei a compreensão prática de containerização aplicada a um projeto real.
+-   Refleti sobre a importância de validações automáticas para garantir qualidade e previsibilidade no desenvolvimento.
