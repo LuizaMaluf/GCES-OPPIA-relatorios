@@ -94,6 +94,7 @@ Essa Sprint foquei em commitar o que eu tinha feito na Sprint passada (Sprint 01
 
 * Aprendi um pouco mais sobre a estrutura do projeto.
 
+---
 
 ## Sprint 3 – \[09/10 – 21/10]
 
@@ -117,3 +118,23 @@ Essa sprint eu foquei em commitar e passar do pré-commit que existe no oppia na
 ### Aprendizados
 
 * Aprendi um pouco mais sobre a arquitetura do projeto.
+
+---
+
+## Sprint 5 – [06/11 – 17/11]
+
+### Resumo da Sprint
+
+Após ter perdido a Sprint 4, foquei na parte das traduções do projeto.
+
+### Atividades Realizadas
+
+| Data  | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| ----- | --------- | --------------------------------- | --------------- | ------ |
+| 08/11 | Comecei o processo de tradução de tarefas | Tradução |  [Comprovante 1](./images/tradução.png) | Concluído |
+| 13/11 | Traduzi mais tarefas | Tradução |  [Comprovante 2](./images/tradução2.png) | Concluído |
+
+### Maiores Avanços
+
+  * Consegui fazer traduções de tarefas de matemática de inglês para português.
+
