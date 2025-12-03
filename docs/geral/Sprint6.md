@@ -27,6 +27,7 @@
 | :--- | :--- | :--- | :--- |
 | **Luiza Maluf** | - Tradução de lições completas (mais de 100 trechos).<br>- Estudo das diretrizes de tradução e copy tool. | - | - |
 | **Bianca Patrocínio** | - Manutenção do PR de Documentação (Installation) | - [PR \#23825](https://github.com/oppia/oppia/pull/23825)| PR bloqueado aguardando esclarecimento sobre teste unitário solicitado pelo maintainer. |
+| Gabriel Moura dos Santos | - Tradução de lição de geometria<br>- Continuidade das contribuições de tradução para o projeto | Plataforma Oppia | Tradução simples e direta de conteúdo de geometria |
 
 ## 4\. Maiores Avanços
 

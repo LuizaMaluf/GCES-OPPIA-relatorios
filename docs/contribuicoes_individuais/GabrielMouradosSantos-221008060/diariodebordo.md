@@ -144,3 +144,172 @@ Nesta sprint, foquei no estudo da issue #16640, um E2E flake relacionado à visi
 
 ---
 
+## Sprint 3 – [09/10 – 22/10]
+
+### Resumo da Sprint
+
+Nesta sprint, devido aos persistentes problemas de ambiente de desenvolvimento e dificuldades com issues de CI flakes, decidi contribuir para o Oppia de uma forma diferente mas igualmente valiosa: através de traduções. Foquei em traduzir conteúdo educacional do inglês para o português, contribuindo para tornar a plataforma mais acessível para falantes de português. Para não ficar sem contribuição para o projeto, adaptei minha forma de colaborar conforme minhas possibilidades técnicas atuais.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 10/10 | Exploração das opções de contribuição não-técnicas no Oppia | Estudo | [Oppia Contributor Guidelines](https://github.com/oppia/oppia/wiki) | Concluído |
+| 12/10 | Início das traduções de conteúdo educacional | Tradução | Plataforma Oppia | Concluído |
+| 14/10 | Continuação das traduções - lições de energia | Tradução | Plataforma Oppia | Concluído |
+| 18/10 | Documentação das traduções realizadas com evidências | Documentação | \fotos\image1.png | Aguardando revisão (mantenedor) |
+
+### Maiores Avanços
+
+* Contribuição efetiva para o projeto Oppia através de traduções de conteúdo educacional.
+* Tornar o conteúdo mais acessível para a comunidade de falantes de português.
+* Adaptação criativa para contribuir apesar das limitações técnicas do ambiente.
+* Documentação adequada das contribuições realizadas com evidências fotográficas.
+
+### Maiores Dificuldades
+
+* Persistência dos problemas de ambiente de desenvolvimento das sprints anteriores.
+* Impossibilidade de contribuir com código devido às questões técnicas não resolvidas.
+* Necessidade de encontrar formas alternativas de contribuir para o projeto.
+* Limitação nas opções de contribuição devido às barreiras técnicas.
+
+### Aprendizados
+
+![imagem](./fotos/image1.png)
+
+* Projetos de software livre oferecem múltiplas formas de contribuição além do código.
+* Traduções são uma forma valiosa de tornar projetos mais inclusivos e acessíveis.
+* A importância de adaptar-se às circunstâncias e encontrar maneiras criativas de contribuir.
+* Como documentar adequadamente contribuições não-técnicas para fins acadêmicos.
+* A relevância de não desistir de contribuir mesmo diante de obstáculos técnicos.
+
+### Plano Pessoal para a Próxima Sprint
+
+* Continuar explorando oportunidades de tradução no Oppia.
+* Tentar mais uma vez resolver os problemas de ambiente de desenvolvimento.
+* Buscar mentoria técnica para superar as barreiras de configuração.
+* Considerar contribuições em documentação e wiki do projeto.
+* Explorar outras formas de contribuição não-técnica disponíveis no projeto.
+
+---
+
+## Sprint 4 – [23/10 – 05/11]
+
+### Resumo da Sprint
+
+Nesta sprint, continuei contribuindo com traduções para o Oppia, focando em uma lição mais complexa que continha expressões matemáticas e piadas. O desafio foi adaptar o humor e as descrições de imagens para o contexto brasileiro, mantendo o valor educacional e o engajamento dos estudantes. Esta experiência me permitiu explorar aspectos mais avançados da localização de conteúdo educacional.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 24/10 | Seleção de lição com conteúdo matemático e humor para tradução | Estudo | Plataforma Oppia | Concluído |
+| 26/10 | Tradução de expressões matemáticas e adaptação para contexto brasileiro | Tradução | Plataforma Oppia | Concluído |
+| 28/10 | Adaptação de piadas e humor para cultura brasileira | Tradução | Plataforma Oppia | Concluído |
+| 30/10 | Tradução e adaptação de descrições de imagens | Tradução | Plataforma Oppia | Concluído |
+| 02/11 | Documentação das traduções com evidências visuais | Documentação | \fotos\image2.png | Concluído |
+
+### Maiores Avanços
+
+* Tradução bem-sucedida de conteúdo complexo envolvendo matemática e humor.
+* Adaptação cultural de piadas mantendo o valor educacional e engajamento.
+* Desenvolvimento de habilidades de localização além da simples tradução literal.
+* Contribuição contínua para tornar o Oppia mais acessível para estudantes brasileiros.
+
+### Maiores Dificuldades
+
+* Desafio de adaptar piadas e humor para diferentes contextos culturais.
+* Necessidade de manter precisão matemática enquanto adapta explicações.
+* Balanceamento entre fidelidade ao conteúdo original e adaptação cultural.
+* Garantir que as descrições de imagens fossem apropriadas para o público brasileiro.
+
+### Aprendizados
+
+![imagem](./fotos/image2.png)
+
+* A complexidade da localização de conteúdo educacional que vai além da tradução simples.
+* A importância da adaptação cultural para manter o engajamento dos estudantes.
+* Como traduzir humor mantendo o propósito educacional do conteúdo.
+* A necessidade de considerar diferenças culturais ao descrever elementos visuais.
+* O valor de contribuições de localização para projetos educacionais globais.
+
+### Plano Pessoal para a Próxima Sprint
+
+* Continuar explorando lições com diferentes níveis de complexidade para tradução.
+* Buscar feedback da comunidade sobre as traduções realizadas.
+* Investigar outras formas de contribuição não-técnica no projeto.
+* Tentar novamente resolver questões de ambiente para contribuições técnicas futuras.
+* Documentar melhores práticas para tradução de conteúdo educacional.
+
+---
+
+## Sprint 5 – [06/11 – 19/11]
+
+### Resumo da Sprint
+
+Nesta sprint final, foquei no desenvolvimento do trabalho final da disciplina. Devido às persistentes dificuldades com CI/CD no GitLab, optei por realizar o projeto no GitHub (https://github.com/thegm445/teste), mas documentei instruções detalhadas no GitLab sobre o trabalho. O projeto envolveu a implementação de práticas de DevOps e configuração de pipelines, mas as limitações técnicas do ambiente GitLab impediram a execução completa dos workflows.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 12/11 || 17/11 | Documentação de instruções no GitLab sobre o processo | Documentação | GitLab (instruções) | Concluído |
+
+
+### Maiores Avanços
+
+* Conclusão do trabalho final utilizando GitHub como plataforma principal.
+* Implementação bem-sucedida de pipeline CI/CD com GitHub Actions.
+* Documentação clara das instruções e processo no GitLab para referência.
+* Entrega do projeto dentro do prazo estabelecido apesar das limitações técnicas.
+
+### Maiores Dificuldades
+
+* Impossibilidade de executar CI/CD no GitLab devido a problemas de configuração.
+* Necessidade de adaptar o trabalho para uma plataforma diferente da originalmente planejada.
+* Limitações de tempo para resolver questões técnicas complexas do GitLab.
+* Balanceamento entre entregar o trabalho e resolver problemas de infraestrutura.
+
+### Aprendizados
+
+* A importância de ter planos alternativos quando enfrentamos barreiras técnicas.
+* Como diferentes plataformas de DevOps (GitHub vs GitLab) têm suas particularidades.
+* A flexibilidade necessária para adaptar projetos conforme limitações do ambiente.
+* A importância da documentação mesmo quando não conseguimos implementar completamente.
+* Como problemas de infraestrutura podem impactar significativamente o desenvolvimento.
+
+---
+
+## Sprint 6 – [20/11 – 03/12]
+
+### Resumo da Sprint
+
+Nesta sprint, continuei contribuindo com traduções para o Oppia, focando em uma lição de geometria. Foi uma tradução direta sem grandes complexidades, mantendo o padrão de contribuições não-técnicas que venho desenvolvendo ao longo das sprints anteriores.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 01/12 | Tradução de lição de geometria | Tradução | Plataforma Oppia | Concluído |
+
+### Maiores Avanços
+
+![imagem](./fotos/image3.png)
+
+* Continuidade das contribuições de tradução para o projeto Oppia.
+* Tradução de conteúdo de geometria para português brasileiro.
+
+### Maiores Dificuldades
+
+* Nenhuma dificuldade significativa nesta sprint.
+
+### Aprendizados
+
+* Consolidação da experiência em tradução de conteúdo educacional.
+* Familiaridade crescente com a plataforma e processo de contribuição.
+
+### Plano Pessoal para a Próxima Sprint
+
+* Finalizar contribuições da disciplina conforme cronograma.
+
+---

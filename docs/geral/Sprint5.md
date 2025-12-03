@@ -28,6 +28,7 @@
 | :--- | :--- | :--- | :--- |
 | Luiza Maluf | Entrega do trabalho individual | - | - |
 | **Bianca Castro** | **1.** Criação de Issue sobre documentação (Installation).<br>**2.** Abertura de PR para correção da documentação.<br>**3.** Manutenção de Discussão sobre Docker. | **1.** [Issue \#23815](https://github.com/oppia/oppia/issues/23815)<br>**2.** [PR \#23825](https://github.com/oppia/oppia/pull/23825)<br>**3.** [Discussion \#23814](https://github.com/oppia/oppia/discussions/23814) | O PR está em revisão, aguardando feedback sobre testes unitários. |
+| Gabriel Moura dos Santos | - Desenvolvimento do trabalho final da disciplina no GitHub<br>- Documentação de instruções no GitLab sobre o processo<br>- Adaptação do projeto devido a problemas de CI/CD no GitLab | [GitHub Repo](https://github.com/thegm445/teste), GitLab (instruções) | Trabalho final adaptado para GitHub devido a limitações técnicas |
 
 ## 4\. Maiores Avanços
 
