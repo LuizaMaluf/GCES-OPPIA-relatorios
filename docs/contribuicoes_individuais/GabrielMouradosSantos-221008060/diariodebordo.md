@@ -175,7 +175,7 @@ Nesta sprint, devido aos persistentes problemas de ambiente de desenvolvimento e
 
 ### Aprendizados
 
-[imagem](/docs/contribuicoes_individuais/GabrielMouradosSantos-221008060/fotos/image1.png)
+![imagem](/docs/contribuicoes_individuais/GabrielMouradosSantos-221008060/fotos/image1.png)
 
 * Projetos de software livre oferecem múltiplas formas de contribuição além do código.
 * Traduções são uma forma valiosa de tornar projetos mais inclusivos e acessíveis.
@@ -225,7 +225,7 @@ Nesta sprint, continuei contribuindo com traduções para o Oppia, focando em um
 
 ### Aprendizados
 
-[imagem](/docs/contribuicoes_individuais/GabrielMouradosSantos-221008060/fotos/image2.png)
+![imagem](/docs/contribuicoes_individuais/GabrielMouradosSantos-221008060/fotos/image2.png)
 
 * A complexidade da localização de conteúdo educacional que vai além da tradução simples.
 * A importância da adaptação cultural para manter o engajamento dos estudantes.
@@ -294,7 +294,7 @@ Nesta sprint, continuei contribuindo com traduções para o Oppia, focando em um
 
 ### Maiores Avanços
 
-[imagem](/docs/contribuicoes_individuais/GabrielMouradosSantos-221008060/fotos/image3.png)
+![imagem](/docs/contribuicoes_individuais/GabrielMouradosSantos-221008060/fotos/image3.png)
 
 * Continuidade das contribuições de tradução para o projeto Oppia.
 * Tradução de conteúdo de geometria para português brasileiro.
