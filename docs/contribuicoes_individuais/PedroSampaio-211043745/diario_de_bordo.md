@@ -160,3 +160,135 @@ Esta sprint foi marcada pela consolidação das primeiras contribuições direta
 
 - [ ] Iniciar uma contribuição de maior complexidade, assumindo uma nova issue mais desafiadora (se possível).
 - [ ] Acompanhar a revisão das traduções pendentes e realizar ajustes caso necessário.
+
+## Sprint 4 – [22/10 – 05/11]
+
+### Resumo da Sprint
+
+Nesta sprint, os esforços foram concentrados na continuidade das contribuições de conteúdo para a plataforma Oppia. O foco principal foi a realização de novas traduções e a revisão do material submetido na etapa anterior, garantindo a qualidade e a aprovação do conteúdo. Além disso, mantivemos a busca ativa por *issues* de código no repositório. Um marco importante desta quinzena foi o volume de contribuições alcançado em parceria com a equipe, consolidando nossa presença na comunidade de tradutores do projeto.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 22/10 - 05/11 | Contribuição contínua nas atividades de tradução da plataforma (Basics of Energy / A tour of the electrical company) | Tradução | [Link](./imagens/traducao_sprint4.png) | Concluído |
+| 02/11 | Recebimento dos comentários de revisão das traduções submetidas na Sprint 3 (em par com [Nathan Abreu](https://github.com/nateejpg)). | Tradução | [Link](./imagens/sprint4_correcao.png) | Concluído |
+
+### Maiores Avanços
+
+* **Alto volume de contribuições em tradução:** Até o momento, em colaboração com [Nathan Abreu](https://github.com/nateejpg), atingimos a marca de **160 traduções realizadas**.
+* Finalização do ciclo de revisão das atividades de energias renováveis iniciadas na sprint anterior.
+
+### Maiores Avanços
+
+* **Alto volume de contribuições em tradução:** Até o momento, em colaboração com [Nathan Abreu](https://github.com/nateejpg), atingimos a marca de **80 traduções**.
+* Finalização do ciclo de revisão das atividades de energias renováveis iniciadas na sprint anterior.
+* Manutenção da constância nas atividades da comunidade.
+
+### Maiores Dificuldades
+
+* **Falta de resposta nas issues:** A maior barreira encontrada foi a ausência de retorno dos mantenedores do projeto. Mesmo comentando e solicitando o *assignment* em diversas issues, não obtivemos respostas, o que impediu o início de novas tarefas de código.
+* Gerenciar o tempo entre a busca frustrada por issues técnicas e a dedicação necessária para manter o ritmo das traduções.
+
+### Aprendizados
+
+* Aprofundamento na dinâmica de revisão de conteúdo (peer review) dentro da plataforma Oppia.
+* Percepção de que a comunicação em projetos open-source grandes pode ser assíncrona e demorada, exigindo persistência na busca por tarefas.
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Insistir na comunicação nas issues já comentadas ou buscar novas frentes de trabalho para conseguir uma tarefa de código.
+* [ ] Monitorar a aprovação final das 160 traduções enviadas.
+
+-----
+
+## Sprint 5 – [06/11 – 17/11]
+
+### Resumo da Sprint
+
+O foco desta sprint foi converter o esforço contínuo em contribuições concretas. Enquanto aguardávamos o retorno sobre as submissões anteriores, dedicamos nosso tempo para expandir significativamente a cobertura de tradução da plataforma, abrangendo lições completas de Geometria e Narrativa. Apesar da intenção de avançar em *issues* de código, o período foi majoritariamente dedicado à tradução devido aos bloqueios externos de revisão.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 06/11 – 17/11 | Espera das correções nas traduções enviadas anteriormente. | Tradução | - | Em Andamento |
+| 06/11 – 17/11 | Realização de 80 novas traduções nas lições "Geometry: Shapes, Perimeters and Areas", "Zara at the Animal Shelter" e "Measuring the Area of Shapes" (em par com [Nathan Abreu](https://github.com/nateejpg)). | Tradução | [Link](./imagens/sprint5_traducoes.png) | Concluído |
+
+### Maiores Avanços
+
+* **Expansão do domínio de conteúdo:** Concluímos um pacote robusto de **160 novas traduções** focadas em tópicos de Geometria e Storytelling ("Zara at the Animal Shelter"), mantendo a produtividade em par com [Nathan Abreu](https://github.com/nateejpg).
+* **Consistência na contribuição:** Mesmo sem o feedback imediato da comunidade sobre as traduções anteriores, conseguimos manter o ritmo de trabalho abrindo novas frentes de tradução em lições diferentes.
+
+### Maiores Dificuldades
+
+* **Demora na correção das traduções:** O fluxo de revisão da comunidade continua lento. A espera pelo feedback dos revisores se estendeu por toda a sprint, criando um gargalo que impede a finalização (merge) das contribuições já enviadas.
+* **Dificuldade em conseguir *assignment* em issues:** Persiste a dificuldade em encontrar tarefas de código disponíveis e, principalmente, obter a designação oficial (*assign*) para elas. A falta de resposta dos mantenedores nas issues comentadas bloqueia o início do trabalho técnico de engenharia.
+
+### Aprendizados
+
+* **Gestão de fluxo assíncrono:** Aprendi a lidar melhor com a ansiedade da "espera", entendendo que em projetos open-source globais é necessário ter múltiplas frentes de trabalho abertas para não ficar ocioso enquanto aguarda revisões.
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Atuar ativamente nas correções assim que o feedback das traduções for liberado.
+
+## Sprint 6 – [21/11 – 03/12]
+
+### Resumo da Sprint
+
+Nesta última sprint, consolidamos nossa estratégia de atuação no projeto. Diante dos contínuos bloqueios burocráticos para a atribuição de *issues* de código, migramos a força de trabalho para a tradução de lições, uma área que permitiu contribuição constante e de alto impacto. Focamos no conteúdo de "Higiene e Doenças", garantindo a entrega de um material educativo essencial. Paralelamente, mantivemos a postura técnica proativa: investigamos a *issue* #23905 e solicitamos o *assignment* com a solução já encaminhada, fechando o ciclo da disciplina com entregas robustas tanto em conteúdo quanto em investigação de engenharia.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 21/11 – 02/12 | Tradução de lições do Oppia ("Hygiene and Diseases - Mostafa Visits the Hospital!") | Tradução | [Link](./imagens/teste_sprint6.png) | Aguardando revisão |
+| 25/11 | Resolução local e solicitação de *assignment* na issue #23905 | Issue | [Link da Issue](https://github.com/oppia/oppia/issues/23905) • [Comprovante](./imagens/sprint6.png) | Aguardando *assigned* |
+
+### Maiores Avanços
+
+* **Marco de Contribuição:** Ao somar os esforços desta etapa final com as sprints anteriores, atingimos a marca expressiva traduções submetidas ao projeto Oppia ao longo do semestre.
+* **Consistência Educacional:** Finalização da tradução da lição "Hygiene and Diseases", desenvolvendo uma consistência terminológica importante para materiais de saúde voltados ao público infantil.
+* **Engenharia Reversa e Debugging:** Sucesso na reprodução e correção local do *bug* relatado na issue #23905, provando a capacidade técnica de contribuir com o código.
+
+### Maiores Dificuldades
+
+* **Bloqueio na Issue #23905:** A maior frustração técnica foi a impossibilidade de submeter o código. Mesmo com a solução do problema já investigada e praticamente pronta em ambiente local, não obtive a designação oficial (*assignment*) por parte dos mantenedores. Isso impediu a abertura do Pull Request, deixando o trabalho de engenharia travado por questões de permissão.
+* **Demora na revisão das traduções:** O fluxo de aprovação da comunidade não acompanhou o ritmo de produção. Há um grande acúmulo de traduções submetidas aguardando feedback dos revisores, o que posterga a integração final do conteúdo.
+* **Volume de Conteúdo:** A lição desta sprint continha um alto volume de textos detalhados e termos específicos, exigindo um tempo maior de pesquisa.
+
+### Aprendizados
+
+* **Adaptação de Linguagem:** A tradução de temas sensíveis (como doenças e higiene) para crianças exige um equilíbrio delicado entre precisão técnica e suavidade na linguagem, algo que exercitamos profundamente nesta sprint.
+
+### Observação
+
+Embora a disciplina se encerre nesta data, mantenho o compromisso com a qualidade das contribuições enviadas. Pretendo acompanhar o processo de revisão e realizar as correções necessárias nas traduções pendentes assim que o feedback da comunidade for liberado, garantindo que o material seja efetivamente integrado à plataforma.
+
+## Resumo das contribuições individuais
+
+Durante o semestre, minha atuação no projeto Oppia dividiu-se entre engenharia de software (código) e internacionalização (conteúdo), totalizando um impacto significativo na plataforma:
+
+* **Contribuição de Código (Merged):** Autoria e aprovação do **Pull Request #23560**, que corrigiu problemas de resolução em imagens do blog do projeto.
+* **Investigação Técnica:** Realizei a engenharia reversa, reprodução local e correção do bug reportado na **Issue #23905**. A solução está pronta em ambiente local, aguardando apenas a permissão burocrática (*assign*) para abertura do PR.
+* **Internacionalização (Tradução):** Em colaboração com a equipe, atingi a marca de pelo menos **300 traduções submetidas**. Trabalhei em lições críticas abrangendo diversos temas:
+    * *Ciências:* "Renewable and Non-renewable Energy", "Basics of Energy".
+    * *Matemática:* "Geometry: Shapes, Perimeters and Areas", "Measuring the Area of Shapes".
+    * *Saúde:* "Hygiene and Diseases - Mostafa Visits the Hospital!".
+    * *Narrativa:* "Zara at the Animal Shelter".
+
+## Dificuldades Gerais no Projeto
+
+A experiência de contribuir para um projeto *open-source* de grande escala como o Oppia apresentou desafios que foram além da complexidade técnica do código:
+
+* **Rigidez e Instabilidade do Pipeline (CI/CD):** Um dos maiores entraves técnicos foi a execução dos processos de verificação automática. Os *pre-commit hooks* e as checagens de *pre-merge* são extremamente lentos e, muitas vezes, apresentaram bugs internos que não estavam relacionados às nossas alterações. A instabilidade dessa infraestrutura é notória, evidenciada pela grande quantidade de *issues* abertas no repositório oficial relatando problemas apenas no CI (Integração Contínua), o que tornava o fluxo de desenvolvimento frustrante e demorado.
+* **Barreira de Entrada Burocrática (Assignment):** A maior dificuldade organizacional foi o processo de atribuição de tarefas (*assign*). A política do projeto exige uma designação formal antes de qualquer submissão de código. Contudo, a comunicação com os mantenedores foi lenta e, muitas vezes, inexistente, o que travou o desenvolvimento de soluções técnicas que já havíamos mapeado ou até resolvido localmente.
+* **Gargalo no Fluxo de Revisão:** Houve um descompasso claro entre a velocidade de contribuição dos alunos da disciplina de GCES e a capacidade de revisão da comunidade Oppia. O alto volume de submissões simultâneas gerou um grande *backlog*, fazendo com que traduções e códigos ficassem semanas parados aguardando feedback.
+* **Desafios de Infraestrutura Local:** A execução do ambiente de desenvolvimento do Oppia revelou-se extremamente pesada. Mesmo em uma máquina com 16GB de RAM, enfrentei travamentos frequentes e reinicializações forçadas durante a execução dos testes e do servidor local.
+
+## Conclusão
+
+A participação no projeto Oppia ao longo da disciplina de GCES foi uma experiência imersiva na realidade do desenvolvimento de software livre em larga escala. Para além das linhas de código e das traduções realizadas, o maior aprendizado residiu na compreensão de que a engenharia de software envolve, necessariamente, processos rigorosos de comunicação, documentação e paciência.
+
+Apesar das frustrações com a burocracia para obtenção de *issues* e a instabilidade do ambiente de CI/CD, consegui adaptar minha estratégia de contribuição, migrando esforços para a internacionalização para garantir entregas constantes e de valor social. Encerro a disciplina com um saldo positivo de mais de 300 contribuições de conteúdo, um Pull Request de código aprovado. Mantenho o compromisso de acompanhar a integração final das pendências, garantindo que o esforço do semestre se traduza em impacto real para os usuários da plataforma.
