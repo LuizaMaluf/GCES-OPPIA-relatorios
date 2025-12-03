@@ -3,46 +3,45 @@
 **Disciplina:** Gestão de Configuração e Evolução de Software
 **Equipe:** [Oppia]
 **Comunidade/Projeto de Software Livre:** [Oppia]
-Período da Sprint: [20/11 – 02/12]
+
+**Período da Sprint:** [20/11 – 02/12]
 
 ## 1\. Objetivos da Sprint
 
-Redirecionar o foco para contribuições alternativas ao código devido à falta de retorno dos maintainers.
-
-Contribuir com o Oppia através da tradução de lições da plataforma.
-
-Realizar o maior volume possível de traduções, seguindo o guia oficial de internacionalização.
-
-Enviar as traduções para revisão da comunidade.
+  * **[Luiza]** Redirecionar o foco para contribuições alternativas ao código devido à falta de retorno dos maintainers (Tradução).
+  * **[Bianca]** Acompanhar e tentar destravar a revisão do Pull Request \#23825.
+  * **[Geral]** Documentar os aprendizados e desafios do semestre para o relatório final.
 
 ## 2\. Entregas Coletivas
 
-| Entrega | Status (Concluído/Parcial/Pendente) | Link/Referência | Observações |
+| Entrega | Status | Link/Referência | Observações |
 | :--- | :--- | :--- | :--- |
-|Tradução de lições do Oppia | Concluído | - | - |
+| Tradução de lições do Oppia (Luiza) | Concluído | - | Foco em internacionalização. |
+| Consolidação de PR e Issues Técnicas (Bianca) | Em andamento | [PR \#23825](https://github.com/oppia/oppia/pull/23825) | Aguardando retorno final de revisão. |
 
 -----
-## 3\. Contribuições Individuais 
+
+## 3\. Contribuições Individuais
 
 | Integrante | Contribuições | Links (PRs, Issues, Docs) | Observações |
 | :--- | :--- | :--- | :--- |
-|Luiza Maluf | Tradução de lições completas (mais de 100 trechos) ; Estudo das diretrizes de tradução e copy tool; | Tradução e estudo| - | - | 
+| **Luiza Maluf** | - Tradução de lições completas (mais de 100 trechos).<br>- Estudo das diretrizes de tradução e copy tool. | - | - |
+| **Bianca Patrocínio** | - Manutenção do PR de Documentação (Installation) | - [PR \#23825](https://github.com/oppia/oppia/pull/23825)| PR bloqueado aguardando esclarecimento sobre teste unitário solicitado pelo maintainer. |
 
 ## 4\. Maiores Avanços
 
-Execução consistente e de alto volume: mais de 100 traduções completas entregues.
+✨ **Destaques da Sprint:**
 
-Adaptação rápida ao novo fluxo de contribuição por tradução.
-
-Continuidade da contribuição ao projeto, mesmo com bloqueios na área de código.
+  * **[Luiza]** Execução consistente e de alto volume: mais de 100 traduções completas entregues e adaptação rápida ao novo fluxo.
+  * **[Bianca]** Sucesso em transformar uma dificuldade técnica pessoal (setup do ambiente) em uma contribuição estruturada para a comunidade (Issue + PR + Discussão), fechando o ciclo de colaboração Open Source.
+  * **[Geral]** Continuidade da contribuição ao projeto, seja via código/documentação ou tradução, demonstrando persistência.
 
 ## 5\. Maiores Dificuldades
 
-Falta de retorno dos maintainers nas discussões técnicas da sprint anterior, o que inviabilizou a submissão de PRs.
-
-Mudança repentina de foco exigiu reorganização das rotinas de trabalho.
-
-Necessidade de extremo cuidado para seguir todas as regras de tradução do Oppia (pontuação, imagens, gênero, vocabulário para crianças).
+  * **Comunicação com Maintainers (Geral):** A falta de retorno ou a lentidão nas respostas bloqueou avanços significativos no código.
+  * **[Bianca] Concorrência e Tempo de Resposta:** Foi muito difícil "pegar" (*claim*) novas issues técnicas. Devido ao fuso horário e à comunidade global ativa, quando terminávamos de analisar um problema, ele frequentemente já havia sido resolvido ou atribuído a outro desenvolvedor.
+  * **[Bianca] Bloqueio Técnico na Revisão:** O PR \#23825 travou pois o maintainer pediu um ajuste em um teste unitário baseando-se em uma documentação de referência que não continha o exemplo necessário.
+  * **[Luiza] Mudança de Contexto:** Necessidade de reorganização rápida para focar em traduções e seguir regras estritas de i18n.
 
 ## 6\. Lições Aprendidas
 
