@@ -49,6 +49,7 @@ A equipe na Sprint 0 focou em organizar os integrantes em subgrupos, criar o for
 - [ ] Trabalhar em conjunto com Luiza Maluf para resolver problemas identificados.
 - [ ] Consolidar aprendizados sobre pipelines e integração contínua.
 - [ ] Conseguir fazer a instalação correta no ambiente MacOS X.
+
 ---
 
 ## Sprint 1 – \[10/09 – 24/09]
@@ -104,39 +105,38 @@ Nesta sprint, o foco foi eu e a [Luiza Maluf](https://github.com/luizamaluf) tra
 
 ### Atividades Realizadas
 
-| Data           | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status        |
-| -------------- | ----------------------------------------------------------- | --------------------------------- | --------------- | ------------- |
-| 25/09          | Estudo da issue e análise do uso de `SERVER_CAN_SEND_EMAILS` | Estudo | [Issue link](https://github.com/oppia/oppia/issues/22727) | Concluído     |
-| 26/09          | Identificação dos arquivos a serem modificados             | Código | `admin.py`, `cron.py`, `topic_viewer.py`, `topic_editor.py`, `email_manager.py`, entre outros | Concluído     |
-| 27/09 – 30/09  | Remoção do parâmetro e ajustes no código                   | Código | - | Concluído     |
-| 01/10 – 03/10  | Atualização de testes relacionados a envio de email        | Código | `email_manager_test.py` | Concluído     |
-| 04/10 – 06/10  | Testes locais do backend e validação do envio de emails    | Código | - | Concluído     |
-| 07/10 – 08/10  | Discussão com maintainers e ajustes finais                 | Discussão | [Issue link](https://github.com/oppia/oppia/issues/22727) | Em andamento  |
+| Data          | Atividade                                                    | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                               | Status       |
+| ------------- | ------------------------------------------------------------ | --------------------------------- | --------------------------------------------------------------------------------------------- | ------------ |
+| 25/09         | Estudo da issue e análise do uso de `SERVER_CAN_SEND_EMAILS` | Estudo                            | [Issue link](https://github.com/oppia/oppia/issues/22727)                                     | Concluído    |
+| 26/09         | Identificação dos arquivos a serem modificados               | Código                            | `admin.py`, `cron.py`, `topic_viewer.py`, `topic_editor.py`, `email_manager.py`, entre outros | Concluído    |
+| 27/09 – 30/09 | Remoção do parâmetro e ajustes no código                     | Código                            | -                                                                                             | Concluído    |
+| 01/10 – 03/10 | Atualização de testes relacionados a envio de email          | Código                            | `email_manager_test.py`                                                                       | Concluído    |
+| 04/10 – 06/10 | Testes locais do backend e validação do envio de emails      | Código                            | -                                                                                             | Concluído    |
+| 07/10 – 08/10 | Discussão com maintainers e ajustes finais                   | Discussão                         | [Issue link](https://github.com/oppia/oppia/issues/22727)                                     | Em andamento |
 
 ### Maiores Avanços
 
-* Remoção completa do parâmetro `SERVER_CAN_SEND_EMAILS` e ajustes correspondentes no código.  
-* Atualização dos testes de email para refletir o comportamento sem condicional.  
-* Garantia de que a funcionalidade de envio de email continua funcionando corretamente em todas as partes do sistema.  
+- Remoção completa do parâmetro `SERVER_CAN_SEND_EMAILS` e ajustes correspondentes no código.
+- Atualização dos testes de email para refletir o comportamento sem condicional.
+- Garantia de que a funcionalidade de envio de email continua funcionando corretamente em todas as partes do sistema.
 
 ### Maiores Dificuldades
 
-* Identificação de todos os pontos do código que dependiam do parâmetro antigo.  
-* Ajuste dos testes para não quebrar com a remoção do parâmetro.  
-* Necessidade de validar com maintainers antes de submeter o PR.  
+- Identificação de todos os pontos do código que dependiam do parâmetro antigo.
+- Ajuste dos testes para não quebrar com a remoção do parâmetro.
+- Necessidade de validar com maintainers antes de submeter o PR.
 
 ### Aprendizados
 
-* Experiência prática em **remover parâmetros de plataforma e refatorar código dependente**.  
-* Entendimento da importância de testes para manter estabilidade do backend durante alterações globais.  
-* Aprendizado sobre **comunicação com maintainers** e documentação de mudanças em PRs complexos.  
+- Experiência prática em **remover parâmetros de plataforma e refatorar código dependente**.
+- Entendimento da importância de testes para manter estabilidade do backend durante alterações globais.
+- Aprendizado sobre **comunicação com maintainers** e documentação de mudanças em PRs complexos.
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Submeter o PR com todas as alterações e evidências de testes passando.  
-* [ ] Monitorar feedback dos maintainers e aplicar ajustes finais se necessário.  
-* [ ] Explorar novas issues de backend que envolvam **remoção de parâmetros ou simplificação de lógica**.
-
+- [ ] Submeter o PR com todas as alterações e evidências de testes passando.
+- [ ] Monitorar feedback dos maintainers e aplicar ajustes finais se necessário.
+- [ ] Explorar novas issues de backend que envolvam **remoção de parâmetros ou simplificação de lógica**.
 
 ---
 
@@ -148,12 +148,11 @@ Nesta sprint, o foco foi eu e a [Luiza Maluf](https://github.com/luizamaluf) ten
 
 ### Atividades Realizadas
 
-| Data           | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status        |
-| -------------- | ----------------------------------------------------------- | --------------------------------- | --------------- | ------------- |
-| 09/10 – 21/10  | Investigação e tentativa de pre-push após alterações no backend` | Código | [Issue link](https://github.com/oppia/oppia/issues/22727) | Concluído    |
-| 20/10         | Registro das dificuldades no Discussions do Oppia            | Discurssão | [#23646](https://github.com/oppia/oppia/discussions/23646), [#23633](https://github.com/oppia/oppia/discussions/23633), [#23631](https://github.com/oppia/oppia/discussions/23631) | Aguardando resposta     |
-| 21/09  | Documentação do fluxo de problemas e próximos passos                 | Doc | Diário de Bordo | Concluído     |
-
+| Data          | Atividade                                                        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                                                                                                    | Status              |
+| ------------- | ---------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| 09/10 – 21/10 | Investigação e tentativa de pre-push após alterações no backend` | Código                            | [Issue link](https://github.com/oppia/oppia/issues/22727)                                                                                                                          | Concluído           |
+| 20/10         | Registro das dificuldades no Discussions do Oppia                | Discurssão                        | [#23646](https://github.com/oppia/oppia/discussions/23646), [#23633](https://github.com/oppia/oppia/discussions/23633), [#23631](https://github.com/oppia/oppia/discussions/23631) | Aguardando resposta |
+| 21/09         | Documentação do fluxo de problemas e próximos passos             | Doc                               | Diário de Bordo                                                                                                                                                                    | Concluído           |
 
 ### Maiores Avanços
 
@@ -161,11 +160,11 @@ Nesta sprint, o foco foi eu e a [Luiza Maluf](https://github.com/luizamaluf) ten
 
 - Identificação dos principais erros bloqueando o pre-push e possíveis causas:
 
-    -   Backend: testes falhando (ImportError, too many positional arguments, unused variables).
+  - Backend: testes falhando (ImportError, too many positional arguments, unused variables).
 
-    -   WSL: problemas de permissão no node_modules.
+  - WSL: problemas de permissão no node_modules.
 
-    -   Docker: build quebrando devido ao Debian Buster descontinuado.
+  - Docker: build quebrando devido ao Debian Buster descontinuado.
 
 - Discussões abertas no repositório oficial para suporte e orientação dos maintainers.
 
@@ -175,7 +174,7 @@ Nesta sprint, o foco foi eu e a [Luiza Maluf](https://github.com/luizamaluf) ten
 
 - Dependência dos maintainers para definir como corrigir erros de backend e CI/CD.
 
-- Problemas de ambiente (WSL e Docker) que atrasaram o fluxo de contribuição.  
+- Problemas de ambiente (WSL e Docker) que atrasaram o fluxo de contribuição.
 
 ### Aprendizados
 
@@ -189,6 +188,108 @@ Nesta sprint, o foco foi eu e a [Luiza Maluf](https://github.com/luizamaluf) ten
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Acompanhar a resposta dos maintainers sobre os bloqueios no pre-push. 
-* [ ] Corrigir erros de linting e testes backend conforme orientação.
-* [ ] Submeter finalmente o PR da issue #22727.
+- [ ] Acompanhar a resposta dos maintainers sobre os bloqueios no pre-push.
+- [ ] Corrigir erros de linting e testes backend conforme orientação.
+- [ ] Submeter finalmente o PR da issue #22727.
+
+## Sprint 4 – [22/10 – 05/11]
+
+### Resumo da Sprint
+
+O andamento da sprint não foi bom. Apesar de ter aberto várias discussões no repositório oficial, não recebi respostas efetivas dos maintainers. Sem esse retorno, não foi possível avançar nem submeter o PR referente à issue #22727.
+
+### Atividades Realizadas
+
+| Data          | Atividade                                           | Tipo      | Link/Referência        | Status      |
+| ------------- | --------------------------------------------------- | --------- | ---------------------- | ----------- |
+| 22/10 – 05/11 | Acompanhamento das discussions abertas              | Discussão | #23646, #23633, #23631 | Sem retorno |
+| 05/11         | Tentativa de reorganizar ambiente e revalidar erros | Código    | -                      | Bloqueado   |
+
+### Maiores Avanços
+
+Nenhum avanço técnico significativo na issue principal.
+
+### Maiores Dificuldades
+
+Falta de resposta dos maintainers nas discussões.
+
+Sem retorno, não tive como prosseguir com o PR.
+
+Bloqueio total por dependência externa.
+
+![discursao1](../LuizaMaluf-221008294/assets/discursao1.png)
+[link da discurssão](https://github.com/oppia/oppia/discussions/23631)
+![discursoa2](../LuizaMaluf-221008294/assets/discurso2.png)
+[link da discurssão](https://github.com/oppia/oppia/discussions/23633)
+
+### Aprendizados
+
+Comunidades grandes podem ter fila longa de respostas.
+
+Parte da contribuição open source envolve lidar com períodos de espera.
+
+Plano Pessoal para a Próxima Sprint
+
+Realizar as atividades acadêmicas individuais enquanto aguardo resposta.
+
+## Sprint 5 – [06/11 – 20/11]
+
+### Resumo da Sprint
+
+Nesta sprint, foquei no trabalho individual solicitado pela professora, pausando temporariamente as contribuições diretas no Oppia enquanto aguardava o retorno dos maintainers. Com certa dificuldade de comunicação com os mantenedores do projeto, as issues que monitoramos para a parte de código foram todas tomadas pelos desenvolvedores principais do projeto por representarem um ponto crítico do sistema.
+
+### Atividades Realizadas
+
+| Data          | Atividade                                     | Tipo | Link/Referência | Status    |
+| ------------- | --------------------------------------------- | ---- | --------------- | --------- |
+| 06/11 – 20/11 | Execução do trabalho individual da disciplina | Doc  | -               | Concluído |
+
+### Maiores Avanços
+
+Conclusão da tarefa individual acadêmica.
+
+### Maiores Dificuldades
+
+Pausa forçada no fluxo de contribuição devido ao bloqueio anterior.
+
+### Aprendizados
+
+Importância de adaptar o planejamento quando o ambiente externo não colabora.
+
+### Plano Pessoal para a Próxima Sprint
+
+Buscar uma forma alternativa de contribuir caso o PR continue bloqueado.
+
+## Sprint 6 – [21/11 – 05/12]
+
+### Resumo da Sprint
+
+Diante da dificuldade de avançar com o PR, decidi migrar para outra linha de contribuição no Oppia: tradução de lições. Essa área estava ativa, com demanda constante e sem bloqueios técnicos. Com a contribuição da minha dupla [Luiza Maluf](https://github.com/LuizaMaluf), conseguimos traduzir mais de 4 lições em conjunto.
+
+### Atividades Realizadas
+
+| Data          | Atividade                   | Tipo | Link/Referência  | Status             |
+| ------------- | --------------------------- | ---- | ---------------- | ------------------ |
+| 21/11 – 02/12 | Tradução de lições do Oppia | Doc  | Plataforma Oppia | Aguardando revisão |
+
+### Maiores Avanços
+
+Mais de 100 traduções concluídas e submetidas.
+
+Retomei o ritmo de contribuição sem depender de ambiente local.
+
+Desenvolvimento de consistência de tradução em conteúdo educacional.
+
+![traduçao](./assets/contrib-traducoes.png)
+
+### Maiores Dificuldades
+
+Alto volume de textos detalhados.
+
+Aguardando revisão para aceite final das contribuições.
+
+### Aprendizados
+
+A tradução exige atenção às diretrizes pedagógicas e ao estilo infantil do Oppia.
+
+Contribuir com documentação também é uma forma relevante de participar de projetos open source.
