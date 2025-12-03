@@ -180,3 +180,113 @@ Ainda em andamento — espaço reservado para adicionar evidências visuais (pri
 * [ ] Encontrar uma issue para trabalhar em pair programming com o Pedro.  
 * [ ] Continuar as contribuições de tradução e completar revisão de strings pendentes.  
 * [ ] Abrir PRs menores para facilitar revisão e integração contínua.
+
+---
+
+## Sprint 4 – [22/10 – 05/11]
+
+### Resumo da Sprint
+
+Na Sprint 4 analisei o feedback das revisões das traduções submetidas e realizei novas contribuições de tradução em respostas às correções solicitadas. Busquei ajustar detalhes de formatação e o contexto entre falas dos personagens para manter a coerência pedagógica.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo | Link/Referência | Status |
+| ---- | --------- | ---- | --------------- | ------ |
+| 23/10 | Análise de feedbacks das traduções | Doc/Discussão | - | Concluído |
+| 27/10 | Submissão de novas traduções e correções | Código/Doc | - | Concluído |
+| 04/11 | Revisão de contexto entre personagens | Doc | - | Concluído |
+
+### Maiores Avanços
+
+* Submissão de várias correções solicitadas pelos revisores.  
+* Melhoria no detalhamento das interações entre personagens nas lições.
+
+### Maiores Dificuldades
+
+* Falta de comunicação consistente por parte dos avaliadores; respostas demoradas ou ausentes.
+
+### Aprendizados
+
+* Importância de detalhar o contexto e entonação nas traduções para preservar a intenção pedagógica.
+
+### Evidência / Captura
+
+![Feedback e correções Sprint 4](feedbackcorrecaosprint4foto1.png)
+
+---
+
+## Sprint 5 – [06/11 – 20/11]
+
+### Resumo da Sprint
+
+Na Sprint 5 corrigi questões apontadas pelos revisores (como a falta de negrito em termos destacados) e, em parceria com o Pedro Sampaio, finalizamos a tradução do bloco "Energia Básica" com aproximadamente 150 traduções realizadas no período.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo | Link/Referência | Status |
+| ---- | --------- | ---- | --------------- | ------ |
+| 08/11 | Correção de negrito em palavras destacadas | Código/Doc | - | Concluído |
+| 12/11 – 18/11 | Tradução e revisão do bloco "Energia Básica" (em pair) | Doc/Código | - | Concluído |
+
+### Maiores Avanços
+
+* Conclusão do bloco "Energia Básica" (≈150 traduções) com revisão em pair programming.
+
+### Maiores Dificuldades
+
+* Feedbacks dos revisores frequentemente pouco detalhados, exigindo refinamentos adicionais.
+
+### Aprendizados
+
+* Pair programming ordenado facilita divisão de tarefas e revisão cruzada eficiente.
+
+### Evidência / Captura
+
+![Correções Sprint 5](correcaosprint5foto1.png)
+
+---
+
+## Sprint 6 – [21/11 – 05/12]
+
+### Resumo da Sprint
+
+Na Sprint 6, eu e Pedro Sampaio resolvemos um bug de CI relacionado ao fluxo de integração e continuamos com contribuições de tradução. Realizamos cerca de 15 traduções adicionais e finalizamos as traduções de "Energia Renovável". A issue trabalhada está em: https://github.com/oppia/oppia/issues/23905 — aguardando aprovação e atribuição (assignee).
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo | Link/Referência | Status |
+| ---- | --------- | ---- | --------------- | ------ |
+| 22/11 | Investigação e correção do bug de CI | Código | [Issue #23905](https://github.com/oppia/oppia/issues/23905) | Em andamento |
+| 24/11 – 02/12 | Traduções finais de "Energia Renovável" (≈15 traduções) | Doc | - | Concluído |
+| 03/12 | Submissão de PRs e pedido de assignee para revisão final | Código/Discussão | [Issue #23905](https://github.com/oppia/oppia/issues/23905) | Pendente |
+
+### Maiores Avanços
+
+* Correção aplicada para o bug de CI (implementação submetida).  
+* Finalizamos as traduções do módulo "Energia Renovável".  
+* Avanço em colaboração com Pedro no fluxo de revisão.
+
+### Maiores Dificuldades
+
+* Falta de aprovação/assign por parte de alguns maintainers (time externo), o que atrasou o fechamento da issue.
+
+### Aprendizados
+
+* Trabalhar em projetos open source requer adaptação a processos de revisão externos e paciência na espera por respostas.  
+* Pair programming permitiu resolver tanto traduções quanto problemas de integração.
+
+### Evidências / Capturas
+
+![Issue Sprint 6 - captura 1](issuesprint6foto1.png)
+![Issue Sprint 6 - captura 2](issuesprint6foto2.png)
+
+### Novas Traduções (evidência)
+
+![Novas traduções Sprint 6](novastraducoessprint6foto3.png)
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Acompanhar aprovação/assign da issue #23905.  
+* [ ] Continuar revisões de traduções pendentes e responder feedbacks dos revisores.  
+* [ ] Submeter pequenos PRs de correção para acelerar a aceitação.
