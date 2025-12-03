@@ -278,7 +278,8 @@ Buscar uma forma alternativa de contribuir caso o PR continue bloqueado.
 
 Diante da dificuldade de avançar com o PR, decidi migrar para outra linha de contribuição no Oppia: tradução de lições. Essa área estava ativa, com demanda constante e sem bloqueios técnicos. Consegui avançar bastante e já tenho mais de 100 traduções enviadas, aguardando revisão do time de tradução.
 
-Atividades Realizadas
+### Atividades Realizadas
+
 | Data	| Atividade	| Tipo	| Link/Referência	| Status |
 |----|-----|-----|----|----|
 |21/11 – 02/12	|Tradução de lições do Oppia|	Doc|	Plataforma Oppia|	Aguardando revisão|
