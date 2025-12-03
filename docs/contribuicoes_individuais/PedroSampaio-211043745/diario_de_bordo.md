@@ -1,12 +1,12 @@
 # Diário de Bordo – Pedro Sampaio Dias Rocha
 
-**Disciplina:** \[Gestão da Configuração e Evolução de Software]
-**Equipe:** \[Oppia]
-**Comunidade/Projeto de Software Livre:** \[Oppia]
+**Disciplina:** [Gestão da Configuração e Evolução de Software]
+**Equipe:** [Oppia]
+**Comunidade/Projeto de Software Livre:** [Oppia]
 
 ---
 
-## Sprint 0 – \[25/08 – 10/09]
+## Sprint 0 – [25/08 – 10/09]
 
 ### Resumo da Sprint
 
@@ -44,7 +44,7 @@ Nesta sprint, voltamos nossos esforços para estruturar a equipe, criar o fork d
 
 ---
 
-## Sprint 1 – \[11/09 – 24/09]
+## Sprint 1 – [11/09 – 24/09]
 
 ### Resumo da Sprint
 
@@ -56,7 +56,7 @@ Nesta sprint, o objetivo foi, em primeiro lugar, explorar com mais profundidade 
 |-------------|---------------------------------------------------------------------------|------------------------------------|-------------------------------------------|------------|
 | 11/09 - 15/09 | Estudo das políticas de contribuição e formas de participação            | Estudo                             | Não resultou em material concreto          | Concluído  |
 | 14/09 - 18/09 | Pesquisa de issues para possível contribuição                            | Estudo                             | Não resultou em material concreto          | Concluído  |
-| 17/09        | Solicitação de voluntariado para apoiar em implementação ou criação de tarefas | Solicitação                        | [Imagem](./imagens/voluntariado.png)      | Concluído  |
+| 17/09        | Solicitação de voluntariado para apoiar em implementação ou criação de tarefas | Solicitação                        | [Ver Imagem](./imagens/voluntariado.png) <br> ![Solicitação de Voluntariado](./imagens/voluntariado.png) | Concluído  |
 | 18/09        | Solicitação de uma issue para contribuição                                | Solicitação                        | Não resultou em material concreto          | Concluído  |
 
 ### Maiores Avanços
@@ -83,7 +83,7 @@ Nesta sprint, o objetivo foi, em primeiro lugar, explorar com mais profundidade 
 
 ---
 
-## Sprint 2 – \[25/09 – 08/10]
+## Sprint 2 – [25/09 – 08/10]
 
 ### Resumo da Sprint
 
@@ -96,7 +96,7 @@ No início de outubro, comecei a contribuir com o projeto em colaboração com N
 | 03/10 | Iniciei o trabalho no fork do projeto com [Nathan Abreu](https://github.com/nateejpg). | Código | [Link para o Fork](https://github.com/nateejpg/oppia) | Concluído |
 | 05/10 | Realizei meu primeiro commit. | Commit | [Link para o Commit](https://github.com/nateejpg/oppia/commit/0d6b65b3e45f1a7258e1201f74a1966eddbad6fa) | Concluído |
 | 07/10 | Fui designado para uma issue junto com [Nathan Abreu](https://github.com/nateejpg). | Issue | [Issue #23387](https://github.com/oppia/oppia/issues/23387) | Concluído |
-| 07/10 | Respondi ao e-mail sobre a solicitação de voluntariado para apoiar na implementação ou criação de tarefas. | Discussão | [Imagem do Email](./imagens/email_recebido.png) | Aguardando resposta |
+| 07/10 | Respondi ao e-mail sobre a solicitação de voluntariado para apoiar na implementação ou criação de tarefas. | Discussão | [Ver Imagem](./imagens/email_recebido.png) <br> ![Email Recebido](./imagens/email_recebido.png) | Aguardando resposta |
 | 08/10 | Abri o Pull Request e solicitei o merge. | Pull Request | [PR #23560](https://github.com/oppia/oppia/pull/23560) | Aguardando correções |
 
 ### Maiores Avanços
@@ -135,9 +135,9 @@ Esta sprint foi marcada pela consolidação das primeiras contribuições direta
 | :--- | :--- | :--- | :--- | :--- |
 | 12/10 | Fechamento do Pull Request referente às imagens em baixa resolução, em colaboração com [Nathan Abreu](https://github.com/nateejpg). | Pull Request | [Link para o PR](https://github.com/oppia/oppia/pull/23560) | Concluído |
 | 12/10 | Realização do merge do Pull Request. | Merge | [Link para o commit](https://github.com/oppia/oppia/commit/30d483afaa3bff758dd0c42248e05be5624e6f8f) | Concluído |
-| 12/10 a 15/10 | Tradução da atividade “Renewable and Non-renewable Energy.” | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_1.png) | Concluído |
-| 20/10 | Traduções aprovadas pela comunidade. | Tradução | [Comprovante 1](./imagens/comprovacao_traducao_3.png) • [Comprovante 2](./imagens/comprovacao_traducao_4.png) • [Comprovante 3](./imagens/comprovacao_traducao_2.png) | Concluído |
-| 20/10 | Recebimento de badges da comunidade Oppia pelas traduções aprovadas. | Reconhecimento | [Badges](./imagens/comprovacao_traducao_5.png) | Concluído |
+| 12/10 a 15/10 | Tradução da atividade “Renewable and Non-renewable Energy.” | Tradução | [Ver Imagem](./imagens/comprovacao_traducao_1.png) <br> ![Comprovante 1](./imagens/comprovacao_traducao_1.png) | Concluído |
+| 20/10 | Traduções aprovadas pela comunidade. | Tradução | [Ver Imagem](./imagens/comprovacao_traducao_3.png) <br> ![Comprovante 3](./imagens/comprovacao_traducao_3.png) <br> [Ver Imagem](./imagens/comprovacao_traducao_4.png) <br> ![Comprovante 4](./imagens/comprovacao_traducao_4.png) <br> [Ver Imagem](./imagens/comprovacao_traducao_2.png) <br> ![Comprovante 2](./imagens/comprovacao_traducao_2.png) | Concluído |
+| 20/10 | Recebimento de badges da comunidade Oppia pelas traduções aprovadas. | Reconhecimento | [Ver Imagem](./imagens/comprovacao_traducao_5.png) <br> ![Badges](./imagens/comprovacao_traducao_5.png) | Concluído |
 | 21/10 | Início da busca por uma nova issue para desenvolvimento em pair programming com [Nathan Abreu](https://github.com/nateejpg). | Issue | Sem comprovantes | Em andamento |
 
 ### Maiores Avanços
@@ -161,6 +161,8 @@ Esta sprint foi marcada pela consolidação das primeiras contribuições direta
 - [ ] Iniciar uma contribuição de maior complexidade, assumindo uma nova issue mais desafiadora (se possível).
 - [ ] Acompanhar a revisão das traduções pendentes e realizar ajustes caso necessário.
 
+---
+
 ## Sprint 4 – [22/10 – 05/11]
 
 ### Resumo da Sprint
@@ -171,17 +173,12 @@ Nesta sprint, os esforços foram concentrados na continuidade das contribuiçõe
 
 | Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 22/10 - 05/11 | Contribuição contínua nas atividades de tradução da plataforma (Basics of Energy / A tour of the electrical company) | Tradução | [Link](./imagens/traducao_sprint4.png) | Concluído |
-| 02/11 | Recebimento dos comentários de revisão das traduções submetidas na Sprint 3 (em par com [Nathan Abreu](https://github.com/nateejpg)). | Tradução | [Link](./imagens/sprint4_correcao.png) | Concluído |
+| 22/10 - 05/11 | Contribuição contínua nas atividades de tradução da plataforma (Basics of Energy / A tour of the electrical company) | Tradução | [Ver Imagem](./imagens/traducao_sprint4.png) <br> ![Tradução Sprint 4](./imagens/traducao_sprint4.png) | Concluído |
+| 02/11 | Recebimento dos comentários de revisão das traduções submetidas na Sprint 3 (em par com [Nathan Abreu](https://github.com/nateejpg)). | Tradução | [Ver Imagem](./imagens/sprint4_correcao.png) <br> ![Correção Sprint 4](./imagens/sprint4_correcao.png) | Concluído |
 
 ### Maiores Avanços
 
 * **Alto volume de contribuições em tradução:** Até o momento, em colaboração com [Nathan Abreu](https://github.com/nateejpg), atingimos a marca de **160 traduções realizadas**.
-* Finalização do ciclo de revisão das atividades de energias renováveis iniciadas na sprint anterior.
-
-### Maiores Avanços
-
-* **Alto volume de contribuições em tradução:** Até o momento, em colaboração com [Nathan Abreu](https://github.com/nateejpg), atingimos a marca de **80 traduções**.
 * Finalização do ciclo de revisão das atividades de energias renováveis iniciadas na sprint anterior.
 * Manutenção da constância nas atividades da comunidade.
 
@@ -213,7 +210,7 @@ O foco desta sprint foi converter o esforço contínuo em contribuições concre
 | Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | 06/11 – 17/11 | Espera das correções nas traduções enviadas anteriormente. | Tradução | - | Em Andamento |
-| 06/11 – 17/11 | Realização de 80 novas traduções nas lições "Geometry: Shapes, Perimeters and Areas", "Zara at the Animal Shelter" e "Measuring the Area of Shapes" (em par com [Nathan Abreu](https://github.com/nateejpg)). | Tradução | [Link](./imagens/sprint5_traducoes.png) | Concluído |
+| 06/11 – 17/11 | Realização de 80 novas traduções nas lições "Geometry: Shapes, Perimeters and Areas", "Zara at the Animal Shelter" e "Measuring the Area of Shapes" (em par com [Nathan Abreu](https://github.com/nateejpg)). | Tradução | [Ver Imagem](./imagens/sprint5_traducoes.png) <br> ![Traduções Sprint 5](./imagens/sprint5_traducoes.png) | Concluído |
 
 ### Maiores Avanços
 
@@ -233,6 +230,8 @@ O foco desta sprint foi converter o esforço contínuo em contribuições concre
 
 * [ ] Atuar ativamente nas correções assim que o feedback das traduções for liberado.
 
+---
+
 ## Sprint 6 – [21/11 – 03/12]
 
 ### Resumo da Sprint
@@ -243,8 +242,8 @@ Nesta última sprint, consolidamos nossa estratégia de atuação no projeto. Di
 
 | Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 21/11 – 02/12 | Tradução de lições do Oppia ("Hygiene and Diseases - Mostafa Visits the Hospital!") | Tradução | [Link](./imagens/teste_sprint6.png) | Aguardando revisão |
-| 25/11 | Resolução local e solicitação de *assignment* na issue #23905 | Issue | [Link da Issue](https://github.com/oppia/oppia/issues/23905) • [Comprovante](./imagens/sprint6.png) | Aguardando *assigned* |
+| 21/11 – 02/12 | Tradução de lições do Oppia ("Hygiene and Diseases - Mostafa Visits the Hospital!") | Tradução | [Ver Imagem](./imagens/teste_sprint6.png) <br> ![Tradução Sprint 6](./imagens/teste_sprint6.png) | Aguardando revisão |
+| 25/11 | Resolução local e solicitação de *assignment* na issue #23905 | Issue | [Link da Issue](https://github.com/oppia/oppia/issues/23905) <br> [Ver Imagem](./imagens/sprint6.png) <br> ![Comprovante Issue](./imagens/sprint6.png) | Aguardando *assigned* |
 
 ### Maiores Avanços
 
@@ -265,6 +264,8 @@ Nesta última sprint, consolidamos nossa estratégia de atuação no projeto. Di
 ### Observação
 
 Embora a disciplina se encerre nesta data, mantenho o compromisso com a qualidade das contribuições enviadas. Pretendo acompanhar o processo de revisão e realizar as correções necessárias nas traduções pendentes assim que o feedback da comunidade for liberado, garantindo que o material seja efetivamente integrado à plataforma.
+
+---
 
 ## Resumo das contribuições individuais
 
