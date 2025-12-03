@@ -207,3 +207,101 @@ Nesta sprint, o foco foi eu e o [Lucas Bottino](https://github.com/bottinolucas)
 * [ ] Acompanhar a resposta dos maintainers sobre os bloqueios no pre-push. 
 * [ ] Corrigir erros de linting e testes backend conforme orientação.
 * [ ] Submeter finalmente o PR da issue #22727.
+
+## Sprint 4 – [22/10 – 05/11]
+
+### Resumo da Sprint
+
+O andamento da sprint não foi bom. Apesar de ter aberto várias discussões no repositório oficial, não recebi respostas efetivas dos maintainers. Sem esse retorno, não foi possível avançar nem submeter o PR referente à issue #22727.
+
+### Atividades Realizadas
+| Data	| Atividade	| Tipo	| Link/Referência	| Status |
+|----|-----|-----|----|----|
+|22/10 – 05/11|	Acompanhamento das discussions abertas| 	Discussão|#23646, #23633, #23631| Sem retorno| 
+|05/11	|Tentativa de reorganizar ambiente e revalidar erros| Código|	-|	Bloqueado|
+
+### Maiores Avanços
+
+Nenhum avanço técnico significativo na issue principal.
+
+### Maiores Dificuldades
+
+Falta de resposta dos maintainers nas discussões.
+
+Sem retorno, não tive como prosseguir com o PR.
+
+Bloqueio total por dependência externa.
+
+![discursao1](./assets/discursao1.png)
+[link da discurssão](https://github.com/oppia/oppia/discussions/23631)
+![discursoa2](./assets/discurso2.png)
+[link da discurssão](https://github.com/oppia/oppia/discussions/23633)
+
+### Aprendizados
+
+Comunidades grandes podem ter fila longa de respostas.
+
+Parte da contribuição open source envolve lidar com períodos de espera.
+
+Plano Pessoal para a Próxima Sprint
+
+Realizar as atividades acadêmicas individuais enquanto aguardo resposta.
+
+## Sprint 5 – [06/11 – 20/11]
+### Resumo da Sprint
+
+Nesta sprint, foquei no trabalho individual solicitado pela professora, pausando temporariamente as contribuições diretas no Oppia enquanto aguardava o retorno dos maintainers.
+
+### Atividades Realizadas
+| Data	| Atividade	| Tipo	| Link/Referência	| Status |
+|----|-----|-----|----|----|
+|06/11 – 20/11	|Execução do trabalho individual da disciplina|	Doc|	-	|Concluído|
+
+### Maiores Avanços
+
+Conclusão da tarefa individual acadêmica.
+
+### Maiores Dificuldades
+
+Pausa forçada no fluxo de contribuição devido ao bloqueio anterior.
+
+### Aprendizados
+
+Importância de adaptar o planejamento quando o ambiente externo não colabora.
+
+### Plano Pessoal para a Próxima Sprint
+
+Buscar uma forma alternativa de contribuir caso o PR continue bloqueado.
+
+## Sprint 6 – [21/11 – 05/12]
+### Resumo da Sprint
+
+Diante da dificuldade de avançar com o PR, decidi migrar para outra linha de contribuição no Oppia: tradução de lições. Essa área estava ativa, com demanda constante e sem bloqueios técnicos. Consegui avançar bastante e já tenho mais de 100 traduções enviadas, aguardando revisão do time de tradução.
+
+Atividades Realizadas
+| Data	| Atividade	| Tipo	| Link/Referência	| Status |
+|----|-----|-----|----|----|
+|21/11 – 02/12	|Tradução de lições do Oppia|	Doc|	Plataforma Oppia|	Aguardando revisão|
+
+
+### Maiores Avanços
+
+Mais de 100 traduções concluídas e submetidas.
+
+Retomei o ritmo de contribuição sem depender de ambiente local.
+
+Desenvolvimento de consistência de tradução em conteúdo educacional.
+
+![traduçao](./assets/traducao.png)
+
+### Maiores Dificuldades
+
+Alto volume de textos detalhados.
+
+Aguardando revisão para aceite final das contribuições.
+
+### Aprendizados
+
+A tradução exige atenção às diretrizes pedagógicas e ao estilo infantil do Oppia.
+
+Contribuir com documentação também é uma forma relevante de participar de projetos open source.
