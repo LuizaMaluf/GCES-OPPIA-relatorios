@@ -275,7 +275,6 @@ Este período foi marcado pela alta produtividade de código e pela finalizaçã
 | 30/11	| Criação e Detalhamento da Nova Issue de número 23974 |	Doc/Discussão |	[Issue #23974](https://github.com/oppia/oppia/issues/23974) | Concluído |
 | 30/11	| Tentativas de Contato e Aguardo de Assign  |	Doc| [Issue #23682](https://github.com/oppia/oppia/issues/23682), [Issue #23677](https://github.com/oppia/oppia/issues/23677) e [Issue #23974](https://github.com/oppia/oppia/issues/23974) |	Plataforma Oppia|	Em Andamento |
 
-
 ### Maiores Avanços
 
 Código Pronto para Duas Issues: As implementações para a correção do bug do vídeo (#23682) e para a Issue #23677 foram finalizadas e testadas localmente. O código está pronto para ser enviado.
