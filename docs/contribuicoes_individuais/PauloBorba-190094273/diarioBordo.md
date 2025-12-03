@@ -273,7 +273,7 @@ Este período foi marcado pela alta produtividade de código e pela finalizaçã
 | 30/11	| Finalização da Implementação da Issue #23682 |	Código |  [Issue #23682](https://github.com/oppia/oppia/issues/23682) e [Resolução da Issue #23682](https://github.com/paulohborba/oppia/commit/aed200f998857177a11064df6748aa10d03f7b60) |	Concluído |
 | 30/11	| Análise e Implementação da Issue #23677 |	Código | [Issue #23677](https://github.com/oppia/oppia/issues/23677) e [Resolução da Issue #23677](https://github.com/paulohborba/oppia/commit/5798bf709f6e641290dcdfe60c5cf830232dd3e8) |	Concluído |
 | 30/11	| Criação e Detalhamento da Nova Issue de número 23974 |	Doc/Discussão |	[Issue #23974](https://github.com/oppia/oppia/issues/23974) | Concluído |
-| 30/11	| [Issue #23682](https://github.com/oppia/oppia/issues/23682), [Issue #23677](https://github.com/oppia/oppia/issues/23677) e [Issue #23974](https://github.com/oppia/oppia/issues/23974) |	Doc|	Plataforma Oppia|	Em Andamento |
+| 30/11	| Tentativas de Contato e Aguardo de Assign  |	Doc| [Issue #23682](https://github.com/oppia/oppia/issues/23682), [Issue #23677](https://github.com/oppia/oppia/issues/23677) e [Issue #23974](https://github.com/oppia/oppia/issues/23974) |	Plataforma Oppia|	Em Andamento |
 
 
 ### Maiores Avanços
@@ -284,21 +284,21 @@ Aumento da Produtividade: Demonstração de capacidade em alternar e finalizar t
 
 Contribuição ao Tracker: A criação da Issue #23974 demonstra proatividade em identificar e formalizar problemas no projeto, um passo importante na contribuição para a comunidade.
 
-![Issue 23682](image.png)
+![Issue 23682](./assets/image.png)
 
-![Issue 23682](image-1.png)
-
-
-![Issue 23677](image-2.png)
-
-![Issue 23677](image-3.png)
-
-![Issue 23677](image-4.png)
-
-![Issue 23677](image-5.png)
+![Issue 23682](./assets/image-1.png)
 
 
-![Issue 23974](image-6.png)
+![Issue 23677](./assets/image-2.png)
+
+![Issue 23677](./assets/image-3.png)
+
+![Issue 23677](./assets/image-4.png)
+
+![Issue 23677](./assets/image-5.png)
+
+
+![Issue 23974](./assets/image-6.png)
 
 ### Maiores Dificuldades
 
