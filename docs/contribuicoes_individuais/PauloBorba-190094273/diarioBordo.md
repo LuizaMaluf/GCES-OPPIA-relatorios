@@ -140,57 +140,6 @@ Nesta Sprint 2, foi necessário novamente ampliar a configuração do ambiente d
 
 ---
 
-## Sprint 3 – [09/10 – 21/10]
-
-### Resumo da Sprint
-
-
-
-### Atividades Realizadas
-
-| Data           | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status        |
-| -------------- | ----------------------------------------------------------- | --------------------------------- | --------------- | ------------- |
-| 09/10 – 21/10  | Investigação e tentativa de pre-push após alterações no backend` | Código | [Issue link](https://github.com/oppia/oppia/issues/22727) | Concluído    |
-| 20/10         | Registro das dificuldades no Discussions do Oppia            | Discurssão | [#23646](https://github.com/oppia/oppia/discussions/23646), [#23633](https://github.com/oppia/oppia/discussions/23633), [#23631](https://github.com/oppia/oppia/discussions/23631) | Aguardando resposta     |
-| 21/09  | Documentação do fluxo de problemas e próximos passos                 | Doc | Diário de Bordo | Concluído     |
-
-
-### Maiores Avanços
-
-- Remoção do parâmetro SERVER_CAN_SEND_EMAILS implementada no código e nos testes locais.
-
-- Identificação dos principais erros bloqueando o pre-push e possíveis causas:
-
-    -   Backend: testes falhando (ImportError, too many positional arguments, unused variables).
-
-    -   WSL: problemas de permissão no node_modules.
-
-    -   Docker: build quebrando devido ao Debian Buster descontinuado.
-
-- Discussões abertas no repositório oficial para suporte e orientação dos maintainers.
-
-### Maiores Dificuldades
-
-- Falhas no pre-push que impediram a submissão do PR.
-
-- Dependência dos maintainers para definir como corrigir erros de backend e CI/CD.
-
-- Problemas de ambiente (WSL e Docker) que atrasaram o fluxo de contribuição.  
-
-### Aprendizados
-
-- Compreensão mais profunda do pipeline de testes, linting e CI/CD do Oppia.
-
-- Experiência em documentar e comunicar problemas técnicos complexos à comunidade.
-
-- Aprendizado prático em lidar com erros de integração em ambientes variados.
-
-### Plano Pessoal para a Próxima Sprint
-
-* [ ] Acompanhar a resposta dos maintainers sobre os bloqueios no pre-push. 
-* [ ] Corrigir erros de linting e testes backend conforme orientação.
-* [ ] Submeter finalmente o PR da issue #22727.
-
 ## Sprint 4 – [22/10 – 05/11]
 
 ### Resumo da Sprint
