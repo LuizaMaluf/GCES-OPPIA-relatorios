@@ -284,9 +284,3 @@ Na Sprint 6, eu e Pedro Sampaio resolvemos um bug de CI relacionado ao fluxo de 
 ### Novas Traduções (evidência)
 
 ![Novas traduções Sprint 6](novastraducoessprint6foto3.png)
-
-### Plano Pessoal para a Próxima Sprint
-
-* [ ] Acompanhar aprovação/assign da issue #23905.  
-* [ ] Continuar revisões de traduções pendentes e responder feedbacks dos revisores.  
-* [ ] Submeter pequenos PRs de correção para acelerar a aceitação.
