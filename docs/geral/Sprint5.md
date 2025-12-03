@@ -29,6 +29,7 @@
 | Luiza Maluf | Entrega do trabalho individual | - | - |
 | **Bianca Castro** | **1.** Criação de Issue sobre documentação (Installation).<br>**2.** Abertura de PR para correção da documentação.<br>**3.** Manutenção de Discussão sobre Docker. | **1.** [Issue \#23815](https://github.com/oppia/oppia/issues/23815)<br>**2.** [PR \#23825](https://github.com/oppia/oppia/pull/23825)<br>**3.** [Discussion \#23814](https://github.com/oppia/oppia/discussions/23814) | O PR está em revisão, aguardando feedback sobre testes unitários. |
 | Gabriel Moura dos Santos | - Desenvolvimento do trabalho final da disciplina no GitHub<br>- Documentação de instruções no GitLab sobre o processo<br>- Adaptação do projeto devido a problemas de CI/CD no GitLab | [GitHub Repo](https://github.com/thegm445/teste), GitLab (instruções) | Trabalho final adaptado para GitHub devido a limitações técnicas |
+| **Nathan Abreu** | - Correção de formatação (negrito) em questões e ajustes de layout.<br>- Finalização, em pair programming com Pedro Sampaio, do bloco "Energia Básica" (≈150 traduções).<br>- Apoio na preparação de assets/imagens e evidências para PRs. | - | Foco em traduções, revisão em pair e preparação de evidências (pasta "nathan abreu"). |
 
 ## 4\. Maiores Avanços
 
@@ -37,11 +38,13 @@
   * Conclusão integral do trabalho individual solicitado pela professora.
   * **[Bianca]** Sucesso em converter uma discussão informal sobre erros de instalação em uma **Issue oficial** atribuída e, posteriormente, em um **Pull Request**.
   * **[Bianca]** Consolidação do conhecimento sobre *pre-push hooks* e scripts de verificação do Oppia.
+  * **[Nathan Abreu]** Correção de formatação (negrito) em questões e finalização, em pair programming com Pedro Sampaio, do bloco "Energia Básica" (≈150 traduções); preparação de assets e evidências para PRs.
 
 ## 5\. Maiores Dificuldades
 
   * Falta de retorno rápido dos maintainers nas discussões e issues, impedindo avanço nas contribuições planejadas (geral).
   * **[Bianca]** Dificuldade técnica específica no PR \#23825: o maintainer solicitou ajustes em testes unitários, mas a documentação de referência fornecida não continha exemplos claros, gerando um bloqueio no desenvolvimento.
+  * **[Nathan Abreu]** Feedbacks dos revisores pouco detalhados e necessidade de múltiplas iterações de formatação/revisão em pair programming, o que atrasou a finalização de algumas correções.
 
 ## 6\. Lições Aprendidas
 
@@ -51,6 +54,8 @@
 
 ## 7\. Planejamento para a Próxima Sprint
 
-  * **[Geral]** Consolidar todas as contribuições e preparar o relatório final da disciplina.
-  * **[Bianca]** Tentar finalizar o merge do PR \#23825 resolvendo a pendência dos testes.
-  * **[Bianca]** Documentar as dificuldades gerais de "setup" e concorrência por issues para o relatório final.
+  * **[Geral]** Consolidar todas as contribuições e preparar o relatório final da disciplina.  
+  * **[Bianca]** Tentar finalizar o merge do PR \#23825 resolvendo a pendência dos testes.  
+  * **[Bianca]** Documentar as dificuldades gerais de "setup" e concorrência por issues para o relatório final.  
+  * **[Nathan Abreu]** Continuar as contribuições de tradução: priorizar revisão de strings pendentes, finalizar blocos abertos e dividir mudanças em PRs menores.  
+  * **[Nathan Abreu]** Acompanhar aprovação/assign dos PRs submetidos; fornecer evidências (prints/commits) e contatar maintainers quando necessário.  
