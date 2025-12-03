@@ -39,7 +39,7 @@
 | Bianca Patrocinio| - Estudo na arquitetura do Oppia<br>- Tradução de regras da Wiki<br>- Nevegação pelas abas do site|[Como abrir uma boa PR](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios/blob/main/docs/materiais/como-abrir-pr.md) [Regras para abrir uma PR](https://github.com/LuizaMaluf/GCES-OPPIA-relatorios/blob/main/docs/materiais/regras-para-pr.md) | Foco estudo e documentação |
 | Nathan Abreu  | - Adicionei o aluno Pedro Sampaio para o meu fork para contribuirmos juntos na issue <br> - Ajustei a posição da imagem e subi para o fork principal <br> - Iniciamos o PR e estamos aguardando a a aprovação | [Issue #23387](https://github.com/oppia/oppia/issues/23387) | Foco em Front End|
 | Gabriel Moura dos Santos | - Análise da issue #16640 (E2E flake em testes de wipeout)<br>- Estudo do código de testes webdriverio e workflow<br>- Investigação de problemas de visibilidade de elementos UI<br>- Enfrentou dificuldades técnicas com ambiente de desenvolvimento | [Issue #16640](https://github.com/oppia/oppia/issues/16640) | Limitado por problemas de ambiente |
-
+| Pedro Sampaio | - Colaboração com Nathan Abreu na Issue #23387 (Low resolution images)<br>- Configuração do fork conjunto e primeiro commit<br>- Abertura do PR #23560 | [PR #23560](https://github.com/oppia/oppia/pull/23560) | Pair Programming com Nathan Abreu |
 
 ## 4. Maiores Avanços
 

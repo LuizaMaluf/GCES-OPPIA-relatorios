@@ -9,7 +9,8 @@
 ## 1\. Objetivos da Sprint
 
   * **[Luiza]** Redirecionar o foco para contribuições alternativas ao código devido à falta de retorno dos maintainers (Tradução).
-  * **[Bianca]** Acompanhar e tentar destravar a revisão do Pull Request \#23825.
+  * **[Pedro]** Migrar o esforço principal para a tradução da lição "Higiene e Doenças" e realizar uma última tentativa técnica investigando o bug de CI (Issue #23905) em par com Nathan.
+  * **[Bianca]** Acompanhar e tentar destravar a revisão do Pull Request #23825.
   * **[Geral]** Documentar os aprendizados e desafios do semestre para o relatório final.
 
 ## 2\. Entregas Coletivas
@@ -19,6 +20,7 @@
 | Tradução de lições do Oppia (Luiza) | Concluído | - | Foco em internacionalização. |
 | Consolidação de PR e Issues Técnicas (Bianca) | Em andamento | [PR \#23825](https://github.com/oppia/oppia/pull/23825) | Aguardando retorno final de revisão. |
 | Implementações finalizadas e testadas localmente (Paulo) | Em andamento |  [Issue #23682](https://github.com/oppia/oppia/issues/23682) e [Issue #23677](https://github.com/oppia/oppia/issues/23677) | Implementações finalizadas e testadas localmente, mas sem assign para submissão do PR. Aguardando revisão. |
+| Investigação Técnica e Correção Local (Pedro/Nathan) | Concluído (Local) | [Issue #23905](https://github.com/oppia/oppia/issues/23905) | Solução encontrada para bug de CI, aguardando assign. |
 
 -----
 
@@ -31,6 +33,7 @@
 | Gabriel Moura dos Santos | - Tradução de lição de geometria<br>- Continuidade das contribuições de tradução para o projeto | Plataforma Oppia | Tradução simples e direta de conteúdo de geometria |
 | **Paulo Borba** | - Finalização e testes locais do código para as Issues #23682 e #2367<br> - Criação da Issue #23974 (Reporte de bug)| - [Issue #23682](https://github.com/oppia/oppia/issues/23682) e [Issue #23677](https://github.com/oppia/oppia/issues/23677) <br> - [Issue #23974](https://github.com/oppia/oppia/issues/23974) | Bloqueado na fase de submissão do PR por falta de retorno e assign. |
 | **Nathan Abreu** | - Investigação e correção de bug de CI em parceria com Pedro Sampaio (investigação e patch inicial).<br>- Realização de ~15 traduções e finalização das traduções do módulo "Energia Renovável".<br>- Submissão de PRs e solicitação de assign; preparação de evidências e assets (imagens). | [Issue #23905](https://github.com/oppia/oppia/issues/23905) | Foco em CI e traduções; evidências na pasta "nathan abreu" (issueesprint6foto1.png, issueesprint6foto2.png, novastraducoessprint6foto3.png). |
+| **Pedro Sampaio** | - Tradução da lição "Hygiene and Diseases" (>100 strings).<br>- Investigação profunda e resolução local do bug de CI (Issue #23905) em par com Nathan.<br>- Solicitação de *assign* com a solução técnica já encaminhada. | [Issue #23905](https://github.com/oppia/oppia/issues/23905) | Encerra o semestre com ~420 traduções e solução técnica pronta travada por burocracia. |
 
 ## 4\. Maiores Avanços
 
@@ -40,6 +43,7 @@
   * **[Bianca]** Sucesso em transformar uma dificuldade técnica pessoal (setup do ambiente) em uma contribuição estruturada para a comunidade (Issue + PR + Discussão), fechando o ciclo de colaboração Open Source.
   * **[Paulo]** Duas implementações de código (Issues #23682 e #23677) finalizadas e testadas, além da contribuição ativa ao projeto com a criação da Issue #23974.
   * **[Nathan Abreu]** Investigação e correção inicial de um bug de CI em parceria com Pedro Sampaio; finalização das traduções do módulo "Energia Renovável" (~15 traduções); submissão de PRs e preparação de evidências para revisão.
+  * **[Pedro Sampaio]** Atingiu a marca de aproximadamente 420 traduções no semestre e provou capacidade técnica ao resolver localmente o bug #23905, demonstrando persistência em buscar issues complexas.
   * **[Geral]** Continuidade da contribuição ao projeto, seja via código/documentação ou tradução, demonstrando persistência.
 
 ## 5\. Maiores Dificuldades
@@ -50,6 +54,7 @@
   * **[Luiza] Mudança de Contexto:** Necessidade de reorganização rápida para focar em traduções e seguir regras estritas de i18n.
   * **[Paulo] Comunicação com Maintainers** falta de retorno ou a lentidão nas respostas bloqueou avanços significativos no código e na documentação (PR #23825, Issues #23682 e #23677).
   * **[Nathan Abreu]** Falta de aprovação/assign e comunicação esparsa por parte dos maintainers, o que atrasou a conclusão de correções de CI e a aceitação dos PRs de tradução.
+  * **[Pedro Sampaio] Bloqueio de Permissão:** Ter a solução técnica pronta para a Issue #23905 mas ser impedido de abrir o PR devido à falta de *assignment* oficial.
 
 ## 6\. Lições Aprendidas
 

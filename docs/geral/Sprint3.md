@@ -46,7 +46,7 @@
 | Lucas Bottino | - Investigação conjunta dos erros de backend e pre-push da issue #22727<br>- - Revisão dos arquivos modificados<br>- Testes locais para identificar causas de falha nos lint e nos testes unitários| [Issue #22727](https://github.com/oppia/oppia/issues/22727), [#23646](https://github.com/oppia/oppia/discussions/23646), [#23633](https://github.com/oppia/oppia/discussions/23633), [#23631](https://github.com/oppia/oppia/discussions/23631) | Trabalho colaborativo em backend e validação de alterações |
 | Maria Alice Bernardo | - Identificação e correção de bug de responsividade no editor de questões (UI).<br>- Investigação de sobreposição de CSS (`::ng-deep`, `margin` negativo) em componentes Angular.<br>- Diagnóstico e solução de problemas de ambiente Docker/WSL (`docker cp`, `pre-commit hooks`, `watch mode`)<br>- Submissão do PR da correção de UI. | [Issue #23439](https://github.com/oppia/oppia/issues/23439)<br>[PR #23648](https://github.com/oppia/oppia/pull/23648) | Foco em frontend (Angular/CSS), responsividade e configuração de ambiente. |
 | Bianca Patrocínio | - Busca e análise de Issues para contribuição.<br>- Discussão e análise de bug na Issue #23577 (tela de doação).<br>- Comunicação direta com Maintainer por e-mail.<br>- Abertura de discussão na Issue #23452 para esclarecimento de bug.<br>- Testes locais e início de desenvolvimento da solução para a Issue #23452. | [Issue #23577](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188)<br>[Issue #23452](https://github.com/oppia/oppia/issues/23452) | Foco em análise de Issues, comunicação com a comunidade e preparação para desenvolvimento. |
-| Nathan Abreu e Pedro Sampaio | - Finalizando PR arrumando bug na pipeline que quebrava alguns testes!<br>-Começando as contribuições de tradução Inglês para português!| [PR #23560](https://github.com/oppia/oppia/issues/23577#issuecomment-3409130188)<br> | Contribuir com colaborações em de inglês para francês. |
+| Nathan Abreu e Pedro Sampaio | - Finalização e Merge do PR #23560 (Low Resolution Images).<br>- Início das contribuições de tradução (Inglês -> Português) na plataforma.<br>- Recebimento de badges da comunidade.| [PR #23560](https://github.com/oppia/oppia/pull/23560) | Merge aprovado; Foco migrado para traduções (Energia Renovável). |
 | Gabriel Moura dos Santos | - Contribuição com traduções de conteúdo educacional para português<br>- Tradução de lições de energia do inglês para o português<br>- Adaptação de conteúdo para o contexto brasileiro<br>- Documentação das contribuições realizadas | Plataforma Oppia, \fotos\image1.png | Foco em tradução e localização |
 
 
@@ -58,6 +58,7 @@
 - Abertura de três discussions no repositório oficial para suporte e orientação dos maintainers.
 - Diagnóstico e solução de problemas complexos de configuração de ambiente (Docker/WSL), permitindo a execução correta dos `pre-commit hooks` e a compilação de frontend (`watch mode`).
 - Participação ativa em discussões técnicas nas Issues, ajudando a validar bugs e a redefinir escopos.
+- Aprovação e merge do primeiro Pull Request de código da equipe (PR #23560).
 
 ---
 
