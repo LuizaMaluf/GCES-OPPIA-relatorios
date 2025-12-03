@@ -30,6 +30,7 @@
 | Integrante | Contribuições | Links (PRs, Issues, Docs) | Observações |
 | :--- | :--- | :--- | :--- |
 | **Bianca Patrocínio** | - Configuração do ambiente local do Oppia (após formatação do PC).<br>- Estudo aprofundado do código relacionado à Issue \#23452.<br>- Testes manuais para validar o comportamento do bug localmente. | [Issue \#23452](https://github.com/oppia/oppia/issues/23452) | **Foco:** Recuperação da capacidade produtiva (setup) e análise de código. |
+| Gabriel Moura dos Santos | - Tradução de lição com expressões matemáticas e piadas<br>- Adaptação cultural de humor para o contexto brasileiro<br>- Tradução e adaptação de descrições de imagens<br>- Documentação das traduções realizadas | Plataforma Oppia, \fotos\image2.png | Foco em tradução complexa e adaptação cultural |
 
 -----
 
