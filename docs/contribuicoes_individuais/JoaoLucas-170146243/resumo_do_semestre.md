@@ -1,4 +1,4 @@
-# 📄 Resumo Geral das Sprints 2, 3, 4 e 5
+# 📄 Resumo Geral das Sprints
 
 Durante a sprint 0, configurar o ambiente certamente foi um desafio. O servidor local da oppia apresentou vários erros ao ser configurado, o que resultou na sprint0 não ser o suficiente para a configuração plena do ambiente. Foi apenas durante a sprint1 que, ao conversar com meus colegas, que era possível fazer a instalação do mesmo via Docker. Esse método foi de fato efetivo, o que culminou em na configuração adequada do ambiente de desenvolvimento, iniciando os trabalhos efetivamente apenas na sprint2.
 
